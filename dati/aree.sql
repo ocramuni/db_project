@@ -1,0 +1,10 @@
+insert into aree (id, nome, apertura) values (1, 'Orange', '2022-03-30');
+insert into aree (id, nome, apertura) values (2, 'Teal', '2021-10-08');
+insert into aree (id, nome, apertura) values (3, 'Fuscia', '2021-09-24');
+insert into aree (id, nome, apertura) values (4, 'Green', '2021-12-06');
+insert into aree (id, nome, apertura) values (5, 'Goldenrod', '2022-03-06');
+insert into aree (id, nome, apertura) values (6, 'Red', '2021-06-18');
+insert into aree (id, nome, apertura) values (7, 'Violet', '2022-01-16');
+insert into aree (id, nome, apertura) values (8, 'Puce', '2021-08-10');
+insert into aree (id, nome, apertura) values (9, 'Yellow', '2022-01-31');
+insert into aree (id, nome, apertura) values (10, 'Pink', '2021-08-18');
