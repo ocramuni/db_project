@@ -80,30 +80,19 @@ CREATE TABLE if not exists controlli
   FOREIGN KEY (esemplare_id) REFERENCES esemplari(id) ON DELETE CASCADE  
 );
 
-CREATE OR REPLACE FUNCTION incrementa_numero_esemplari()
+CREATE OR REPLACE FUNCTION inc_dec_numero_esemplari()
 RETURNS TRIGGER AS
 $$
   BEGIN
-    UPDATE generi SET numero_esemplari = numero_esemplari + 1 where id = new.genere_id;
-  RETURN new;
+    IF (TG_OP = 'INSERT') THEN
+      UPDATE generi SET numero_esemplari = numero_esemplari + 1 where id = new.genere_id;
+    ELSIF (TG_OP = 'DELETE') THEN
+      UPDATE generi SET numero_esemplari = numero_esemplari - 1 where id = old.genere_id;
+    END IF;
+  RETURN NULL; -- result is ignored since this is an AFTER trigger
   END;
 $$ LANGUAGE plpgsql;
 
-CREATE TRIGGER esemplari_insert_trigger AFTER INSERT
-  ON esemplari FOR EACH ROW EXECUTE PROCEDURE incrementa_numero_esemplari();
-
-CREATE OR REPLACE FUNCTION decrementa_numero_esemplari()
-RETURNS TRIGGER AS
-$$
-  BEGIN
-    UPDATE generi SET numero_esemplari = numero_esemplari - 1 where id = old.genere_id;
-  RETURN old;
-  END;
-$$ LANGUAGE PLPGSQL;
-
-CREATE TRIGGER esemplari_delete_trigger AFTER DELETE
-  ON esemplari FOR EACH ROW EXECUTE PROCEDURE decrementa_numero_esemplari();
-
-
-
+CREATE TRIGGER numero_esemplari_trigger AFTER INSERT OR DELETE
+  ON esemplari FOR EACH ROW EXECUTE PROCEDURE inc_dec_numero_esemplari();
 
