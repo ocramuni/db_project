@@ -1,0 +1,4188 @@
+10-19% bdy brn/3 deg NOS
+1st deg burn axilla
+1st deg burn face NEC
+1st deg burn finger
+1st deg burn genitalia
+1st deg burn head NOS
+1st deg burn mult finger
+1st deg burn scalp
+1st deg burn trunk NOS
+2 deg burn back of hand
+20-29% bdy brn/3 deg NOS
+2nd deg burn arm NOS
+2nd deg burn ear
+2nd deg burn elbow
+2nd deg burn face NEC
+2nd deg burn foot
+2nd deg burn hand-mult
+2nd deg burn head NOS
+2nd deg burn leg-mult
+2nd deg burn lower leg
+2nd deg burn mult finger
+2nd deg burn mult site
+2nd deg burn shoulder
+2nd deg burn trunk NOS
+2nd degree sunburn
+3 deg brn w loss-low leg
+3 deg burn back of hand
+3 deg burn fingr w thumb
+30-39% bdy brn/20-29% 3d
+33-34 comp wks gestation
+3rd brn w loss-chest wll
+3rd burn w loss-axilla
+3rd burn w loss-breast
+3rd burn w loss-finger
+3rd burn w loss-forearm
+3rd burn w loss-palm
+3rd burn w loss-scapula
+3rd burn w loss-thumb
+3rd deg brn w loss-scalp
+3rd deg burn ankle
+3rd deg burn axilla
+3rd deg burn chest wall
+3rd deg burn face NEC
+3rd deg burn foot
+3rd deg burn hand-mult
+3rd deg burn knee
+3rd deg burn scalp
+3rd deg burn scapula
+3rd deg burn upper arm
+3rd deg burn w loss-eye
+3rd deg burn w loss-neck
+3rd deg burn w loss-nose
+40-49% bdy brn/10-19% 3d
+40-49% bdy brn/20-29% 3d
+50-59% bdy brn/3 deg NOS
+50-59% bdy brn/40-49% 3d
+50-59% bdy brn/50-59% 3d
+60-69% bdy brn/30-39% 3d
+60-69% bdy brn/40-49% 3d
+60-69% bdy brn/50-59% 3d
+60-69% bdy brn/60-69% 3d
+70-79% bdy brn/30-39% 3d
+80-89% bdy brn/3 deg NOS
+90% + bdy brn/10-19% 3rd
+90% + bdy brn/40-49% 3rd
+90% + bdy brn/60-69% 3rd
+90% + bdy brn/70-79% 3rd
+90% + bdy brn/80-89% 3rd
+90% + bdy brn/90% + 3rd
+AMI anterior wall
+AMI anterolateral
+AMI inferior wall
+AMI inferopost
+Ab NOS uncomplicat-comp
+Ab NOS w embolism-inc
+Ab NOS w metab dis-unsp
+Ab ftl hrt rt/rh b/f lab
+Abandonment/lack of care
+Abd preg w/o intrau preg
+Abdmnal mass lt lwr quad
+Abdmnal mass periumbilic
+Abdmnal mass unspcf site
+Abdmnal pain lft up quad
+Abdmnal pain oth spcf st
+Abdmnal pain periumbilic
+Abdmnal pain rt lwr quad
+Abdmnal pain unspcf site
+Abdmnal rgdt epigastric
+Abdmnal rgdt generalized
+Abdmnal tndr generalized
+Abdom aortic aneurysm
+Abdomen/pelvis symp NEC
+Abn auditory funct study
+Abn cervix NEC preg-unsp
+Abn cervix NEC-delivered
+Abn cervix NEC-postpart
+Abn chromosomal analysis
+Abn cns funct study NOS
+Abn find-amniotic fluid
+Abn ftl hrt rate/rhy-ant
+Abn ftl hrt rate/rhy-uns
+Abn function study NEC
+Abn gland pap smr vagina
+Abn glandular pap smear
+Abn glucose-deliv w p/p
+Abn grav uterus NEC-unsp
+Abn hard tiss-tooth pulp
+Abn involun movement NEC
+Abn oculomotor studies
+Abn pap cervix HPV NEC
+Abn pelv NEC-deliv w p/p
+Abn react-anastom/graft
+Abn react-artif implant
+Abn react-limb amputat
+Abn react-org transplant
+Abn react-renal dialysis
+Abn react-surg proc NEC
+Abn react-urinary cath
+Abn secretion glucagon
+Abn thyroid funct study
+Abn toxicologic finding
+Abn uterus NEC-antepart
+Abn uterus NEC-del w p/p
+Abn vulva in preg-unspec
+Abnorm innervation synd
+Abnorm neonate screening
+Abnorm vagina-del w p/p
+Abnorm vagina-delivered
+Abnorm vagina-postpartum
+Abnormal tooth size/form
+Abnormal vep
+Abnormal weight gain
+Abnormalities of hair
+Abnorml tumor marker NEC
+Abnrml art blood gases
+Abo incompat react NOS
+Abo incompat/delay HTR
+Abo isoimmunizat-antepar
+Abort NOS w hemorr-inc
+Abrasion NEC
+Abrasion foot & toe
+Abrasion hand-infected
+Abrasion hip & leg
+Abrasion shldr/arm-infec
+Abrasion shoulder/arm
+Abrasion-dentine
+Abrasion-generalized
+Abscess of liver
+Abscess of lung
+Abscess of prostate
+Abscess of thymus
+Abscess of vulva NEC
+Absence of muscle/tendon
+Ac DVT/embl up ext
+Ac alcohol intox-contin
+Ac alcohol intox-remiss
+Ac bulbar polio-type 1
+Ac chem conjunctivitis
+Ac duoden ulc w hem-obst
+Ac embl suprfcl up ext
+Ac embl thorac vein NEC
+Ac endocardit in oth dis
+Ac ethmoidal sinusitis
+Ac gingivitis
+Ac kidny fail
+Ac laryngotrach no obstr
+Ac marg ulc hem/perf-obs
+Ac margin ulc w perf-obs
+Ac marginal ulc NOS-obst
+Ac marginal ulcer w perf
+Ac mastoiditis-compl NEC
+Ac maxillary sinusitis
+Ac miliary tb-histo dx
+Ac miliary tb-micro dx
+Ac myocardit in oth dis
+Ac on chr syst hrt fail
+Ac osteomyelitis-ankle
+Ac osteomyelitis-forearm
+Ac osteomyelitis-l/leg
+Ac osteomyelitis-mult
+Ac peptic ulcer NOS-obst
+Ac peptic ulcer w perfor
+Ac pericardit in oth dis
+Ac post-trauma headache
+Ac pyelonephritis NOS
+Ac resp flr fol trma/srg
+Ac sanguin otitis media
+Ac stomach ulc NOS-obstr
+Ac supp OM in oth dis
+Ac uterine inflammation
+Ac/chr rsp flr fol tr/sg
+Ac/chr syst/dia hrt fail
+Ac/subac bact endocard
+Academic underachievment
+Acariasis NOS
+Acc cut/hem in infusion
+Acc cut/hem in surgery
+Acc cut/hem w scope exam
+Acc cut/hem-perfusn NEC
+Acc d/t dam collapse
+Acc d/t storm/flood NOS
+Acc d/t volcanic erupt
+Acc due to lightning
+Acc pois-agrcult NEC/NOS
+Acc pois-butyrphen tranq
+Acc pois-solid/liq NOS
+Acc pois-synth detergent
+Acc pois-utl gas NEC/NOS
+Acc poisn-alcohol bevrag
+Acc poisn-anticholinerg
+Acc poisn-cns depres NEC
+Acc poisn-isopropyl alc
+Acc poisn-local anesthet
+Acc poisn-metabol agnt
+Acc poisn-sulfur dioxide
+Acc poisn-sympatholytics
+Acc poison-alcohol NOS
+Acc poison-analgesic NOS
+Acc poison-antidepressnt
+Acc poison-cosmetics
+Acc poison-exhaust gas
+Acc poison-gas/vapor NEC
+Acc poison-herbicides
+Acc poison-meat
+Acc poison-mushrooms
+Acc poison-paraldehyde
+Acc poison-pesticide NEC
+Acc poison-plant food
+Acc poison-rodenticides
+Acc poison-sedatives NOS
+Acc poisoning-antimony
+Acc poisoning-drug NEC
+Acc poisoning-mercury
+Acc-cutting instrum NEC
+Acc-hot tap water
+Accessory salivary gland
+Accid in recreation area
+Accid punc/op lac dura
+Accident - air gun
+Accident d/t floods
+Accident d/t storm NEC
+Accidental drowning NEC
+Accidental drowning NOS
+Accidnt-mech firearm/gun
+Accretions on teeth
+Acoustic trauma
+Acq absence knee joint
+Acq absence of lung
+Acq absence of teeth NOS
+Acq absence urinary trct
+Acq absnce genital organ
+Acq coagul factor defic
+Acq color deficiency
+Acq deformity NOS
+Acq equinovarus
+Acq hip deformity NEC
+Acq nasolacrml stenosis
+Acq pelvic deformity
+Acq spondylolisthesis
+Acq total absnc pancreas
+Acquired absence kidney
+Acquired hypothyroid NEC
+Acquired night blindness
+Act drmtitis solar rdiat
+Act mono leuk in relapse
+Acte & chr cholecystitis
+Acute HTR NOS
+Acute bronchitis
+Acute cor pulmonale
+Acute cystitis
+Acute dacryocystitis
+Acute gc infect lower gu
+Acute iridocyclitis NOS
+Acute kidney failure NOS
+Acute miliary tb-no exam
+Acute miliary tb-unspec
+Acute myelitis oth cond
+Acute myocarditis NOS
+Acute nasopharyngitis
+Acute nephritis NEC
+Acute pain due to trauma
+Acute paranoid reaction
+Acute prostatitis
+Acute respiratry failure
+Acute sinusitis NOS
+Acute swimmers ear
+Acute syphil meningitis
+Adenovirus infect NOS
+Adhesns/ankylosis - TMJ
+Adj react-emotion NEC
+Adjust disor/dis conduct
+Adjust neuropacemaker
+Adjust react-withdrawal
+Administrtve encount NEC
+Adolescence growth NEC
+Adrenal disorder NOS
+Adrenal gland injury-cl
+Adult emotnl/psych abuse
+Adult maltreatment NOS
+Adult neglect-nutrition
+Adv eff GI agent NEC
+Adv eff GI agent NOS
+Adv eff acetazolamide
+Adv eff anallrg/antemet
+Adv eff anti-common cold
+Adv eff antidepressants
+Adv eff antimycobac NEC
+Adv eff antinfct NEC/NOS
+Adv eff antirheumatics
+Adv eff antitussives
+Adv eff antiviral drugs
+Adv eff antprotazoal NEC
+Adv eff arom analgsc NEC
+Adv eff autonom agnt NOS
+Adv eff blood agent NEC
+Adv eff blood agent NOS
+Adv eff butyrophen tranq
+Adv eff card rhyth regul
+Adv eff cardiovasc NEC
+Adv eff cholinergics
+Adv eff dietetics
+Adv eff digestants
+Adv eff diuretics NEC
+Adv eff electrolyte agnt
+Adv eff emollient/demulc
+Adv eff enzymes NEC
+Adv eff expectorants
+Adv eff gamma globulin
+Adv eff gas anesthet NEC
+Adv eff hydantoin deriv
+Adv eff lipotropic drugs
+Adv eff medicinal NOS
+Adv eff mercury diuretic
+Adv eff methadone
+Adv eff mix sedative
+Adv eff musc agt NEC/NOS
+Adv eff ovarian hormones
+Adv eff parasympatholytc
+Adv eff pharmaceut excip
+Adv eff phenothiaz tranq
+Adv eff plague vaccine
+Adv eff post pituitary
+Adv eff psychostimulants
+Adv eff purine diuretics
+Adv eff resp drg NEC/NOS
+Adv eff salicylates
+Adv eff sedat/hypnot NOS
+Adv eff skelet musc relx
+Adv eff skin agent NOS
+Adv eff smooth musc relx
+Adv eff spinal anesthet
+Adv eff systemic agt NOS
+Adv eff thyroid & deriv
+Adv eff topic dental drg
+Adv eff vasodilators NEC
+Adv eff vitamin k
+Adv eff vitamins NEC
+Adverse eff insulin NOS
+Adverse effect NEC
+Aerobic
+Affectiv personality NOS
+Aft surg skin/subcu NEC
+After-cataract NOS
+Aftercare path fx up arm
+Aftr-catar obscur vision
+Aftrcare path fx low arm
+Aftrcare path fx low leg
+Aftrcare path fx vertebr
+Aftrce traum fx bone NEC
+Aftrcre path fx bone NEC
+Aftrcre surg GU syst NEC
+Aftrcre surg MS syst NEC
+Aftrcre traum fx low leg
+Aftrcre traumatic fx hip
+Aggres periodontitis
+Agoraphobia w panic dis
+Agoraphobia w/o panic
+Aircrft acc NEC-military
+Aircrft acc-parachutist
+Alcoh psy dis w hallucin
+Alcohol abuse-episodic
+Alcohol abuse-in remiss
+Alcohol abuse-unspec
+Alcohol liver damage NOS
+Alcohol persist dementia
+Alcoholic fatty liver
+Alkal burn cornea/conjun
+Allerg arthritis NEC
+Allerg arthritis-shlder
+Allerg rhinitis-cat/dog
+Alpha-1-antitrypsin def
+Alternating esotropia
+Amino-acid transport dis
+Amnestic disord oth dis
+Amnion prob NEC-antepart
+Amniotic infect-antepart
+Amniotic prob NOS-deliv
+Amniotic prob NOS-unspec
+Amphetamin depend-remiss
+Amput abv elb
+Amput below knee
+Amputat foot
+Amputation foot
+Anal & rectal polyp
+Anal fissure
+Anal sphincter tear NOS
+Anaphyl react d/t vaccin
+Anaplastic lymph axilla
+Anaplastic lymph inguin
+Anaplastic lymph spleen
+Ancylostoma duodenale
+Anemia NEC
+Anemia d/t antineo chemo
+Anemia in neoplastic dis
+Anemia-other chronic dis
+Anencephalus
+Anesth compl NOS-deliver
+Anesth compl-postpartum
+Aneurysmal bone cyst
+Angio stm/dudn w/o hmrhg
+Angioid streaks
+Angiopathy in other dis
+Angular blepharoconjunct
+Anim drawn veh-pers NEC
+Anim drawn-occ st car
+Animal bite NOS
+Aniseikonia
+Anisocoria
+Anisometropia
+Ankylosing spondylitis
+Ankylosis-upper/arm
+Anom corneal size/shape
+Anom iris & cil body NEC
+Anomal skull/face bones
+Anomalies of divergence
+Anomalies of inner ear
+Anomalies of ovaries
+Anomalies of sclera
+Anomalies of uterus NEC
+Anoxic brain damage
+Anphylct react peanuts
+Ant disl prox tibia-open
+Ant disloc hip NEC-open
+Ant nasal diphtheria
+Antenatal screening NEC
+Antepart hem NEC-unspec
+Antepart hem NOS-antepar
+Antepart hem NOS-unspec
+Anterior cord synd/c1-c4
+Anthrax NOS
+Antibody response exam
+Antidepress abuse-remiss
+Antineoplastic chemo enc
+Aortic atresia/stenosis
+Aortocoronary bypass
+Aphonia
+Aplastic anemias NEC
+Appendico-vesicos status
+Arbovirus enceph vaccin
+Ariboflavinosis
+Arthritis due to rubella
+Arthrop w hypersen react
+Arthropathy NEC-pelvis
+Arthropathy NEC-unspec
+Arthropathy NEC-up/arm
+Arthropathy NOS-hand
+Arthropathy NOS-up/arm
+Arthropod hem fever NOS
+Arthroscopc conv to open
+Arthus phenomenon
+Artic cartil dis-jt NEC
+Artic cartil dis-mult jt
+Artic cartil dis-pelvis
+Artic cartil dis-up/arm
+Artif open status NEC
+Asbestosis
+Ascending colon inj-open
+Ascorbic acid deficiency
+Asept necro femur condyl
+Aseptic necrosis humerus
+Asphyxiation/strangulat
+Assault-fire
+Assault-gasoline bomb
+Assault-hanging/strangul
+Assault-military weapon
+Assault-pois w gas/vapor
+Assault-pois w medic agt
+Assault-striking w obj
+Assault-submersion
+Asthma w status asthmat
+Asy bacteruria-del w p/p
+Asym bacteriuria-deliver
+Asympt varicose veins
+Ath ext nonautlg bps gft
+Ath ext ntv art ulcrtion
+Ath ext ntv at w rst pn
+Atheroembolism
+Atherosclerosis NEC
+Atony of bladder
+Atresia small intestine
+Atrial fibrillation
+Atrial flutter
+Atrial premature beats
+Atrioven block-mobitz ii
+Atrophic nonflaccid tymp
+Atrophy mandible-minimal
+Atrophy mandible-severe
+Atrophy maxilla-minimal
+Atrophy of prostate
+Atrph gastritis w hmrhg
+Attem abort w hemorrhage
+Atten to colostomy
+Atten to enterostomy NEC
+Atten to tracheostomy
+Atten to urinostomy NEC
+Attn rem nonsurg dressng
+Autosomal anomalies NEC
+Autosomal deletions NEC
+Avulsion of eye
+Azoospermia
+BMI
+BMI 25.0-25.9
+BMI 34.0-34.9
+BMI 36.0-36.9
+BMI 37.0-37.9
+BMI 40.0-44.9
+BMI 45.0-49.9
+BMI 50.0-59.9
+BMI between 19-24
+BPH NOS w ur obs/LUTS
+BPH NOS w/o ur obs/LUTS
+BPH w/o urinary obs/LUTS
+Backache NOS
+Bact arthritis-mult
+Bact food poisoning NEC
+Bacterial diseases NEC
+Bacterial enteritis NEC
+Bacteroides fragilis
+Balanitis xerotica oblit
+Bariatric surg-del w p/p
+Bartters syndrome
+Basal cell ca lid/canth
+Basal cell ca skin lip
+Basal cell ca skin trunk
+Basal cell ca skn up lmb
+Basketball
+Battering by grandparent
+Bdy brn < 10%/3d deg NOS
+Behcet arthritis-ankle
+Ben carcinoid desc colon
+Ben carcinoid duodenum
+Ben crcinoid trans colon
+Ben crcnoid sm intst NOS
+Ben neo lacrimal gland
+Ben neo male genital NEC
+Ben neo ribs/stern/clav
+Ben neo soft tissue NEC
+Ben neo soft tissue head
+Ben neo soft tissue leg
+Benign carcinoid kidney
+Benign mamm dysplas NOS
+Benign neo bone NOS
+Benign neo endocrine NEC
+Benign neo hypopharynx
+Benign neo larynx
+Benign neo nerv sys NOS
+Benign neo pituitary
+Benign neo resp sys NOS
+Benign neo skin leg
+Benign neo skin lip
+Benign neoplasm NOS
+Benign neoplasm choroid
+Benign neoplasm eye NEC
+Benign neoplasm orbit
+Benign neoplasm ovary
+Benign neoplasm penis
+Benign neoplasm pleura
+Benign neoplasm prostate
+Benign neoplasm scrotum
+Benign neoplasm skin NOS
+Benign neoplasm sm bowel
+Benign neoplasm stomach
+Benign neoplasm urethra
+Benign neoplasm vulva
+Benign renovasc hyperten
+Beriberi
+Beta thalassemia
+Bicipital tenosynovitis
+Bicornuate uterus
+Bilat cleft lip-complete
+Bilat cleft palate-compl
+Bilat clft palat/lip-com
+Bilat clft palat/lip-inc
+Biliary atresia
+Bipol I cur depress-mild
+Bipol I currnt mixed NOS
+Bipol I manic-sev w psy
+Bipol I sing-sev w/o psy
+Bipol I single manic NOS
+Bipol I single manic rem
+Bipolar disorder NOS
+Birth trauma NOS
+Bladder/urethra inj-clos
+Bleed esoph var oth dis
+Blepharitis NOS
+Blepharoconjunctivit NOS
+Blind hypertensive eye
+Blister finger
+Blister foot & toe
+Blister foot & toe-infec
+Blister forearm-infected
+Blister head-infected
+Blister hip & leg
+Blister shoulder & arm
+Blister shoulder/arm-inf
+Blood donor-whole blood
+Blood transfusion
+Blood typing encounter
+Boat acc inj NEC-militry
+Boat acc inj NEC-power
+Boat acc inj NEC-unpower
+Boat acc w submers-crew
+Boat inj NEC-person NEC
+Boat submers-dockers
+Boat submers-pers NOS
+Bone infect NEC-ankle
+Bone infect NEC-hand
+Bone infect NEC-oth site
+Bone infect NEC-shlder
+Bone infect NOS-forearm
+Bone infect NOS-l/leg
+Bone infect NOS-oth site
+Bony pelv obstruc-antepa
+Bovine stomatitis
+Brachial plexus injury
+Brain conditions NEC
+Brain hem NEC-brief coma
+Brain hem open-deep coma
+Brain hem opn-brf coma
+Brain hem opn-concussion
+Brain inj NEC-coma NOS
+Brain inj NEC-mod coma
+Brain neoplasm NOS
+Branch cleft sinus/fistu
+Breast abscess preg-unsp
+Breast abscess-del w p/p
+Breast dis NEC-antepart
+Breast dis NEC-del w p/p
+Breast dis NEC-postpart
+Breast dis preg NEC-unsp
+Breast engorge-postpart
+Breast inf NOS-antepart
+Breast inf NOS-postpart
+Breast inf preg NOS-unsp
+Breech del/extrac aff NB
+Breech present-antepart
+Broad ligament hematoma
+Broad ligament lacer syn
+Broken tooth-uncomplic
+Bronchiectas w/o ac exac
+Brst reconst fol mastect
+Brucella suis
+Brucellosis NEC
+Bruch membrane dystrophy
+Bsl cell ca skn site NEC
+Building & construction
+Bullous retinoschisis
+Bunion
+Buphthalmos NOS
+Burkitts tumor axilla
+Burkitts tumor inguin
+Burkitts tumor pelvic
+Burkitts tumor spleen
+Burkitts tumor thorax
+Burn NOS axilla
+Burn NOS breast
+Burn NOS chest wall
+Burn NOS face NEC
+Burn NOS foot
+Burn NOS forearm
+Burn NOS hand-multiple
+Burn NOS head-mult
+Burn NOS leg-multiple
+Burn NOS mult fingers
+Burn NOS scalp
+Burn NOS trunk-unspec
+Burn NOS wrist
+Burn of GI tract
+Bursal cyst NEC
+C1-c4 fx-cl/cen cord syn
+C1-c4 fx-cl/com cord les
+C1-c4 fx-cl/cord inj NEC
+C1-c4 fx-op/ant cord syn
+C1-c4 fx-op/cen cord syn
+C1-c4 spin cord inj NOS
+C5-c7 fx-cl/com cord les
+C5-c7 fx-op/ant cord syn
+C5-c7 fx-op/cord inj NEC
+C5-c7 fx-op/cord inj NOS
+C5-c7 spin cord inj NEC
+CV dis NEC-deliver w p/p
+Ca in situ anus NOS
+Ca in situ breast
+Ca in situ colon
+Ca in situ esophagus
+Ca in situ fem gen NOS
+Ca in situ oral cav/phar
+Ca in situ penis
+Ca in situ scalp
+Ca in situ skin NEC
+Ca in situ skin ear
+Ca in situ skin leg
+Ca in situ stomach
+Ca in situ trachea
+Ca in situ uterus NEC
+Caisson disease
+Calcif tendinitis shlder
+California encephalitis
+Calisthenics
+Candidal endocarditis
+Candidal enteritis
+Candidal esophagitis
+Cannabis depend-episodic
+Capillariasis
+Carbuncle NOS
+Carbuncle of face
+Carbuncle of leg
+Carbuncle of trunk
+Cardiogenic shock
+Cardiomyopath in oth dis
+Cardioresp exercise NEC
+Cardiovascular syph NEC
+Caregiving-bathing
+Carotid sinus syndrome
+Cat-scratch disease
+Cataract NOS
+Cataract extract status
+Cataract in degen dis
+Cataract w neovasculizat
+Cataract w syndrome NEC
+Catatonia-chronic
+Catatonia-remission
+Catatonia-subchronic
+Catatonia-unspec
+Cave-in NOS
+Celiac disease
+Cellulitis of buttock
+Cellulitis of leg
+Cellulitis of trunk
+Cellulocutaneous plague
+Cent perf tympanic memb
+Central cord syn/t7-t12
+Central cord synd/c1-c4
+Central corneal ulcer
+Central pain syndrome
+Central scotoma
+Centric occl intrcsp dis
+Cephalic vers NOS-deliv
+Cereb degeneration NOS
+Cerebel lacer-brief coma
+Cerebell contus-coma NOS
+Cerebral cysts
+Cerebrosp fluid otorrhea
+Cerebrovascular anomaly
+Cerebvas dis-deliv w p/p
+Cerv incompet-antepartum
+Cervical disc degen
+Cervical incompet-deliv
+Cervical rib
+Cervical shortening-ante
+Cervical shortening-del
+Cervical spinal stenosis
+Cervical spondylosis
+Cervical syndrome NEC
+Cervicalgia
+Cervicitis
+Cervix/fem gen anom NOS
+Ch DVT/embl dstl low ext
+Ch DVT/embl low ext NOS
+Ch embl internl jug vein
+Ch leu uns cl in relapse
+Ch lym leuk wo achv rmsn
+Ch pl coccidioidomycosis
+Chest pain NEC
+Cheyne-stokes respiratn
+Childhd disintegr-resid
+Cholangitis
+Cholecystitis NOS
+Choledochlith/gb NEC-obs
+Cholelith/ac gb inf-obst
+Cholelithiasis NOS
+Choleperitonitis
+Cholera carrier
+Cholinergic urticaria
+Chondrocalc NOS-oth site
+Chondrocalcin NOS-pelvis
+Chondrocalcin NOS-shlder
+Chondrocalcin NOS-up/arm
+Chr T & A dis NEC
+Chr airway obstruct NEC
+Chr allrg conjunctiv NEC
+Chr angle-clos glaucoma
+Chr atticoantral sup OM
+Chr duoden ulc hem-obstr
+Chr duoden ulc hem/perf
+Chr duoden ulcer w hem
+Chr erythrm w/o ach rmsn
+Chr erythrmia in relapse
+Chr gc upper gu NEC
+Chr gingivitis-nonplaque
+Chr inflam NOS
+Chr iridocyclitis NOS
+Chr ischemic hrt dis NOS
+Chr kidney dis stage III
+Chr laryngotracheitis
+Chr leuk uns cl w rmson
+Chr lym leuk w rmsion
+Chr membranoprolif nephr
+Chr mono leuk in relapse
+Chr mucoid OM simp/NOS
+Chr mycot otitis externa
+Chr osteomyelit-l/leg
+Chr osteomyelit-mult
+Chr osteomyelit-pelvis
+Chr osteomyelitis-unsp
+Chr otitis externa NEC
+Chr passiv congest liver
+Chr pept ulc hem/perf-ob
+Chr peptic ulc perf-obst
+Chr peptic ulc w hem-obs
+Chr perichondritis pinna
+Chr post-trauma headache
+Chr proliferat nephritis
+Chr sphenoidal sinusitis
+Chr stomach ulc NOS-obst
+Chr stomach ulc w hem
+Chr stomach ulcer NOS
+Chr systolic hrt failure
+Chr tubotympan suppur OM
+Chr venous hyper w ulcer
+Chrnc hpt C w hepat Coma
+Chromoblastomycosis
+Chron periodontitis
+Chron post-thoracot pain
+Chronic adenoiditis
+Chronic bronchitis NOS
+Chronic canaliculitis
+Chronic cholecystitis
+Chronic dacryocystitis
+Chronic meningitis
+Chronic myringitis
+Chronic pain NEC
+Chronic prostatitis
+Chronic respiratory fail
+Chronic sinusitis NEC
+Chronic sinusitis NOS
+Chylocele
+Chyluria
+Cicatricial ectropion
+Cicatricial lagophthalm
+Circadian rhy-delay slp
+Circadian rhym sleep NEC
+Circadian rhym sleep NOS
+Cirrhosis of liver NOS
+Cl sk base fx/br inj NEC
+Cl skl base fx-deep coma
+Cl skl base fx-prol coma
+Cl skl fx NEC-proln coma
+Cl skl fx NEC/br inj NEC
+Cl skl fx NEC/cerebr lac
+Cl skl fx NEC/mening hem
+Cl skl vlt fx-concus NOS
+Cl skl vlt fx-proln coma
+Cl skl w oth fx w/o coma
+Cl skl w oth fx-coma NOS
+Cl skl/oth fx-proln coma
+Cl skl/oth fx/br inj NEC
+Cl skul base fx w/o coma
+Cl skul base fx-coma NOS
+Cl skul base fx-mod coma
+Cl skul base fx/brf coma
+Cl skul fx NEC-deep coma
+Cl skul fx w oth bone fx
+Cl skul w oth fx-concuss
+Cl skul/oth fx-deep coma
+Cl skull base fx-concuss
+Cl skull fx NEC w/o coma
+Cl skull fx NEC-brf coma
+Cl skull fx NEC-concuss
+Cl skull vlt fx-brf coma
+Cl skull vlt fx-coma NOS
+Claw hand
+Climact arthritis-pelvis
+Climb
+Clothing fire NOS
+Clothing fire not in bld
+Clubbing of fingers
+Cns TB NEC-cult dx
+Cns TB NEC-micro dx
+Cns TB NEC-oth test
+Cns TB NOS-no exam
+Cns TB NOS-unspec
+Cns compl in del-postpar
+Cns compl lab/del-deliv
+Cns demyelination NOS
+Cns slow virus infec NOS
+Cnsl perp phys/sex abuse
+Cnsl prnt-adpt chld prob
+Cnsl prnt-fstr chld prob
+Cntct/exp aromatc amines
+Coag def hemorr-unspec
+Coagulation def-antepart
+Coagulation def-deliv
+Coagulation def-postpart
+Coagulation def-unspec
+Coagulatn def-del w p/p
+Cocaine abuse-in remiss
+Cocaine abuse-unspec
+Cocaine depend-remiss
+Colic
+Colon inj mult site-open
+Colon injury NOS-closed
+Colosty/enter comp-mech
+Colosty/enterost infectn
+Coma
+Comb deg cord in oth dis
+Comb drug dep NEC-episod
+Comb drug dep NEC-unspec
+Comb treatment convales
+Comb treatment follow-up
+Combined immunity defic
+Communic dis contact NEC
+Comp edentulism
+Comp intestine transplnt
+Comp-artificial skin grf
+Comp-heart valve prosth
+Comp-nerv sys dev/graft
+Comp-periton dialys cath
+Compartment syndrome NOS
+Compensatory emphysema
+Compl del NOS-del w p/p
+Compl deliv NEC-postpart
+Compl marrow transplant
+Compl reattached arm NEC
+Complete les cord/c5-c7
+Complete les cord/t1-t6
+Complic labor NEC-deliv
+Compression of vein
+Concus-brief coma <31 mn
+Concussion w/o coma
+Concussion-deep coma
+Concussion-prolong coma
+Cond hear loss comb type
+Conduc hear loss mid ear
+Conduct hear loss tympan
+Conduction disorder NEC
+Conduction disorder NOS
+Cong absence ext ear
+Cong aorta valv insuffic
+Cong aorta valv stenosis
+Cong catar/lens anom NEC
+Cong def clot factor NEC
+Cong deformity-clavicle
+Cong ectodermal dysplas
+Cong face/neck anom NEC
+Cong factor IX disorder
+Cong fold/cyst post eye
+Cong foot deform NEC
+Cong heart anomaly NEC
+Cong hip disloc
+Cong pyloric stenosis
+Cong salivary fistula
+Cong skin pigment anomal
+Cong tot/subtot cataract
+Cong tricusp atres/sten
+Cong valgus foot def NEC
+Cong/herid thromb purpra
+Congen CV dis-del w p/p
+Congen CV dis-postpartum
+Congen abn uter-postpart
+Congen abn uterus-deliv
+Congen mitral stenosis
+Congen urethral stenosis
+Congenital cleft hand
+Congenital coxa vara
+Congenital heart block
+Congenital infec NEC
+Congenital monoplegia
+Congenital pes planus
+Congenital renal cyst
+Conjoined twins
+Conjunctiva disorder NEC
+Conjunctival degen NOS
+Conjunctival diphtheria
+Conjunctival edema
+Conjunctivitis NOS
+Conjunctivochalasis
+Conns syndrome
+Consl partner prob
+Consln ot sex trnsmt dis
+Constipation NOS
+Cont/exp haz aromat NEC
+Contact/exposure arsenic
+Contact/exposure mold
+Contaminated injection
+Contamination NOS
+Contour restore tooth
+Contracept mgmt-emergncy
+Contracept pill surveill
+Contracept surveill NEC
+Contraceptive mangmt NEC
+Contraceptive mangmt NOS
+Contract pelv NOS-unspec
+Contusion leg NOS
+Contusion of ankle
+Contusion of breast
+Contusion of elbow
+Contusion of finger
+Contusion of thigh
+Contusion of wrist
+Convergence excess
+Conversion disorder
+Convulsions NEC
+Cor ath natv art tp hrt
+Cor biloculare
+Cord around neck-antepar
+Cord around neck-unspec
+Cord compl NEC-antepart
+Cord complicat NEC-deliv
+Cord complicat NEC-unsp
+Cord complicat NOS-unsp
+Cord compress NEC-deliv
+Cord entangl NEC-antepar
+Cord prolapse-delivered
+Cornea neovasculariz NOS
+Corneal abscess
+Corneal degeneration NOS
+Corneal disorder NEC
+Corneal dystrophy NOS
+Corneal ectasia
+Corneal foreign body
+Corneal grft malfunction
+Corneal ulcer NOS
+Cortex contus-coma NOS
+Cortex lacerat-mod coma
+Cortical blindness
+Cortical/zonular catarac
+Cosmetic dermatitis
+Cough variant asthma
+Counseling NOS
+Coxa valga
+Coxa vara
+Coxsackie endocarditis
+Coxsackie myocarditis
+Cracked nipple-del w p/p
+Cracked nipple-postpart
+Cracked tooth
+Crbl art oc NOS wo infrc
+Crbl emblsm w infrct
+Cri-du-chat syndrome
+Crit illness neuropathy
+Croup
+Crush inj ext genitalia
+Crush inj shoulder & arm
+Crushing injury NOS
+Crushing injury finger
+Crushing injury hip
+Crushing injury of wrist
+Crys arthrop NEC-forearm
+Cryst arthrop NEC-ankle
+Cryst arthrop NEC-pelvis
+Cryst arthrop NEC-shlder
+Cryst arthrop NOS-hand
+Cryst arthrop NOS-l/leg
+Cryst arthrop NOS-shldr
+Crystal deposit vitreous
+Cumltv trma-repetv motn
+Cupping of optic disc
+Curvature of spine NEC
+Cutan leishmanias asian
+Cutan leishmanias urban
+Cutaneous anthrax
+Cutaneous candidiasis
+Cutaneous schistosoma
+Cutaneous-vesicos status
+Cva
+Cyclic neutropenia
+Cyclophoria
+Cyst of prostate
+Cyst of thyroid
+Cystic fibros w pul man
+Cystic fibrosis NEC
+Cystitis NEC
+Cystocele
+Cystostomy status NEC
+Cystostomy status NOS
+Cysts of jaws NEC
+DMI hprsm nt st uncntrld
+DMI neuro uncntrld
+DMI oth nt st uncntrld
+DMI unspf nt st uncntrld
+DMI wo cmp nt st uncntrl
+DMI wo cmp uncntrld
+DMII circ uncntrld
+DMII hprosmlr uncontrold
+DMII hprsm nt st uncntrl
+DMII neuro uncntrld
+DMII ophth nt st uncntrl
+DMII oth uncntrld
+DMII renal uncntrld
+DMII unspf nt st uncntrl
+Damage to pelvic jt-unsp
+Deaf
+Decrease fetl movmt unsp
+Deep 3 deg burn arm-mult
+Deep 3 deg burn elbow
+Deep 3 deg burn leg-mult
+Deep 3 deg burn shoulder
+Deep 3 deg burn thumb
+Deep 3 deg burn wrist
+Deep 3rd brn fngr w thmb
+Deep 3rd brn mult finger
+Deep 3rd burn abdom wall
+Deep 3rd deg brn leg NOS
+Deep 3rd deg burn back
+Deep 3rd deg burn chin
+Deep 3rd deg burn ear
+Deep 3rd deg burn eye
+Deep phlebitis-leg NEC
+Deep thromb antepar-unsp
+Defic cell immunity NOS
+Deficiency anemia NOS
+Degen basal ganglia NEC
+Degen chamber angle
+Degen/vascul dis ear NOS
+Del w 1 deg lacerat-unsp
+Del w 2 deg lacerat-del
+Del w 4 deg lacerat-unsp
+Delay del 2 twin-antepar
+Delay del 2nd twin-unsp
+Delay p/p hem-del w p/p
+Delay separate umbl cord
+Deliver-single stillborn
+Delta-beta thalassemia
+Delusional disorder
+Dematiacious fungi inf
+Demoralization & apathy
+Dental caries-root surf
+Dental disorder NEC
+Dental disorder NOS
+Dental restoratn status
+Dental sealant status
+Dependence on aspirator
+Depr psychos-full remiss
+Deprivation amblyopia
+Derang lat meniscus NOS
+Derang med meniscus NEC
+Dermat d/t food ingest
+Dermatitis NOS
+Dermatitis due to plant
+Dermatochalasis
+Dermatographic urticaria
+Dermatomycoses NEC
+Dermatophyt scalp/beard
+Dermatophytosis of body
+Dermatophytosis of foot
+Dermatophytosis site NEC
+Dermatophytosis site NOS
+Descending colon inj-opn
+Detergent dermatitis
+Deutan defect
+Dev disloc jt-lower leg
+Dev dislocat joint-hand
+Dev dislocat jt-up/arm
+Development delay NOS
+Development delays NEC
+Deviated nasal septum
+Diabetes insipidus
+Diabetes-delivered w p/p
+Diabetic cataract
+Dialysis encounter
+Diaphragm hernia w gangr
+Diaphragm hernia w obstr
+Diarrhea
+Diastolc hrt failure NOS
+Dieulafoy les
+Diff connect tis dis NOS
+Diffus interstit keratit
+Digeorges syndrome
+Digestive problems NEC
+Digestve syst symptm NEC
+Diphtheria NOS
+Diphtheria carrier
+Diplacusis
+Diplegia of upper limbs
+Dis bilirubin excretion
+Dis calcium metablsm NOS
+Dis carbohydr metab NEC
+Dis copper metabolism
+Dis external ear NEC
+Dis hard tiss teeth NEC
+Dis mineral metabol NEC
+Dis mineral metabol NOS
+Dis mitochondrial metab
+Dis of gallbladder NOS
+Dis porphyrin metabolism
+Disability examination
+Disaccharidase def/malab
+Disc degeneration NOS
+Disc lup erythematos lid
+Disease of pharynx NEC
+Disease of pharynx NOS
+Disease of thymus NOS
+Diseases of appendix NEC
+Diseases of nail NEC
+Disfigurements of head
+Disfigurements of limbs
+Disl interphaln hand-cl
+Disl metacarpophalan-opn
+Disl tarsometatarsal-opn
+Disloc 1st cerv vert-cl
+Disloc 3rd cerv vert-opn
+Disloc 4th cerv vert-cl
+Disloc 5th cerv vert-opn
+Disloc 6th cerv vert-cl
+Disloc 6th cerv vert-opn
+Disloc 7th cerv vert-cl
+Disloc carpometacarp-opn
+Disloc cerv vert NOS-opn
+Disloc dist radiouln-cl
+Disloc finger NOS-open
+Disloc metatarsal NOS-cl
+Disloc mlt cerv vert-opn
+Disloc radiocarpal-clos
+Disloc tarsal NOS-closed
+Dislocat coccyx-closed
+Dislocat coccyx-open
+Dislocat elbow NEC-open
+Dislocat elbow NOS-close
+Dislocat foot NEC-closed
+Dislocat foot NOS-closed
+Dislocat knee NEC-closed
+Dislocat knee NEC-open
+Dislocat patella-closed
+Dislocat sacrum-open
+Dislocat wrist NEC-open
+Dislocation NEC-open
+Dislocation ear ossicle
+Dislocation hip NOS-open
+Dislocation jaw-closed
+Dislocation patella-open
+Dislocation sternum-open
+Disord iron metablsm NEC
+Disorder of ear NOS
+Disorder of uterus NOS
+Disorders acid oxidation
+Disorders of diaphragm
+Disorders of eyelid NEC
+Disproportion NEC-deliv
+Disproportion NEC-unspec
+Disrpt trauma wound repr
+Disrupt c-sect wnd-unsp
+Dissection artery NEC
+Dissection iliac artery
+Dissem intravasc coag NB
+Dissociative amnesia
+Dissociative fugue
+Dissociative react NOS
+Dissociatve identity dis
+Double outlet rt ventric
+Double pterygium
+Drop
+Drug abuse NEC-contin
+Drug depend NEC-episodic
+Drug depend NEC-in rem
+Drug depend NEC-unspec
+Drug depend NOS-contin
+Drug mental disorder NEC
+Drug persisting dementia
+Drug psy dis w hallucin
+Drusen of optic disc
+Dual sensory impairment
+Duanes syndrome
+Duodenum injury-open
+Dvrtcli colon w/o hmrhg
+Dvrtclo colon w/o hmrhg
+Dysarthria
+Dysenter arthrit-pelvis
+Dysenter arthrit-shlder
+Dysenter arthrit-up/arm
+Dyshidrosis
+Dyspareunia
+Dysplasia of cervix NOS
+Dysplasia of vagina
+E. coli contact/exp
+E.coli infection NEC/NOS
+Ear anom NEC/impair hear
+Ear problems NEC
+Early satiety
+Early syphil latent NOS
+East equine encephalitis
+Echinococc granul lung
+Echinococc multiloc NEC
+Echinococc multiloc NOS
+Echo virus meningitis
+Economic problem
+Ectopic hormone secr NEC
+Eczem dermatitis eyelid
+Edema
+Edema in preg-del w p/p
+Edema in preg-delivered
+Edema in preg-unspec
+Eff high altitud NEC/NOS
+Effect air pressure NEC
+Effects of thirst
+Effects radiation NOS
+Egg donor NEC
+Ego-dystonic sex orient
+Ehlers-danlos syndrome
+Elbow enthesopathy NEC
+Elbow enthesopathy NOS
+Elderly multigravd-antep
+Elderly multigravida-del
+Elderly primigravida-del
+Electr power generat acc
+Electric current acc NEC
+Elvtd prstate spcf antgn
+Emancipation disorder
+Emotional dis child NEC
+Emotional dis child NOS
+Emotional lability
+Emphysema rsult frm proc
+Emphysematous bleb
+Enceph & encephlalo NEC
+Encntr vocational thrpy
+Encopresis
+Endocard fibroelastosis
+Endocarditis in oth dis
+Endometrial hyperpla NOS
+Endophthalmitis NEC
+Endos dentl imp fail NEC
+Enteritis d/t calicivirs
+Enthesopathy of knee NEC
+Enthesopathy of wrist
+Envir expose algae/toxin
+Eosinophilc gastrt w hem
+Eosinophilia myalgia snd
+Eosinophilic colitis
+Eosinophilic gastroent
+Epicranial subapo hemorr
+Epidemic vomiting synd
+Epilep NOS w/o intr epil
+Epilepsy NOS w intr epil
+Epilepsy-postpartum
+Epiphora d/t insuf drain
+Episclerit periodic fugx
+Episdc paroxyml hemicran
+Episdic tension headache
+Episodic mood disord NEC
+Erosion-dentine
+Erosion-pulp
+Erythem nod tb-micro dx
+Erythem nodos tb-cult dx
+Erythema multiforme maj
+Erythema nodosum
+Erythromelalgia
+Esoph varice oth dis NOS
+Esophageal leukoplakia
+Esophoria
+Estrogen recep neg stat
+Eustachian tube dis NEC
+Ex ear anm NEC-impr hear
+Excess attrition-dentine
+Excess fet grth-antepart
+Excess horizontl overlap
+Excessive attrition-pulp
+Excessive heat NOS
+Excs cry chld
+Exercise counseling
+Exercse ind bronchospasm
+Exfl d/t eryth 10-19 bdy
+Exfl d/t eryth 70-79 bdy
+Exfl d/t eryth >=90% bdy
+Exfol d/t eryth <10% bdy
+Exhaustion-excess exert
+Exophoria
+Exostosis of orbit
+Exotropia NOS
+Exp imp vag mesh-vagina
+Explosion-occ power boat
+Explosive personality
+Exposure NEC
+Exposure to noise
+Ext asthma w status asth
+Ext hemorrhoid w/o compl
+Ext thrombos hemorrhoid
+External ophthalmoplegia
+Externl cause status NEC
+Externl cause status NOS
+Extradur hem-brief coma
+Extradur hem-proln coma
+Extradural hem w opn wnd
+Extradural hem-mod coma
+Extradural hemor-no coma
+Extravag tors sperm cord
+Extravasn vesicant NEC
+Extreme immat 1000-1249g
+Extreme immat 1750-1999g
+Extreme immatur 750-999g
+Extreme immatur <500g
+Eye & vision examination
+FB entering eye
+FB in anterior chamber
+FB in conjunctival sac
+FB left during procedure
+FB post heart catheter
+FB respiratory tree NOS
+Face/brow pres-antepart
+Face/brow present-deliv
+Face/brow present-unspec
+Facial nerve dis NOS
+Factitious dis w symptom
+Fail mod sedate dur proc
+Fail sterile endoscopy
+Fail trial lab NOS-unsp
+Failed forceps NOS-deliv
+Fall from bed
+Fall from chair
+Fall from cliff
+Fall from furniture NEC
+Fall from scaffolding
+Fall from skateboard
+Fall from train-pers NEC
+Fall on sidewalk curb
+Fall-crew comm aircraft
+Fall-milit aircraft occp
+Fall-nonmotor scooter
+Fam hx MEN syndrome
+Fam hx digest disord NEC
+Fam hx-diabetes mellitus
+Fam hx-urinry malig NEC
+Famil hered dis-antepart
+Famil heredit dis-deliv
+Family circumstance NOS
+Family disruption NEC
+Family dsrpt-estrangmemt
+Family hx colonic polyps
+Family hx osteoporosis
+Family hx-gi malignancy
+Family hx-leukemia
+Famly dsrpt-chld custody
+Fascioliasis
+Feb nonhemo transf react
+Febrile convulsions NOS
+Fecal impaction
+Feeding problem
+Fem genital symptoms NEC
+Fem genital symptoms NOS
+Female infertility NEC
+Female orgasmic disorder
+Femoral nerve lesion NEC
+Fertlity preserv counsel
+Fet distress befor labor
+Fet growth ret 2500+g
+Fet growth retard wtNOS
+Fet grwth ret 1250-1499g
+Fet grwth ret 1500-1749g
+Fet grwth ret 2000-2499g
+Fet/plac prob NEC-antepa
+Fet/plac prob NEC-deliv
+Fetal abnorm NOS-antepar
+Fetal abnorm NOS-unspec
+Fetal cns malform-deliv
+Fetal death-anoxia NOS
+Fetal disprop NOS-unspec
+Fetal distress NOS
+Fetal distrs dur lab/del
+Fetal hematologic-ante
+Fetal mal 1250-1499g
+Fetal mal 1500-1749g
+Fetal mal 750-999g
+Fetal malnutr 2000-2499g
+Fetal malnutr 2500+g
+Fetal-maternal hem-deliv
+Fetishism
+Fetopelv dispropor-deliv
+Fibromatoses NEC
+Fibrosclerosis of breast
+Fibula coll lig bursitis
+Fire accident NEC
+Fire in bldg-accid NOS
+Fire in bldg-pvc fumes
+Fire-highly inflam mater
+Fissure of nipple
+Fit/adj breast pros/impl
+Fit/adj vascular cathetr
+Fit/adjust device NEC
+Flccd hmiplg nondmnt sde
+Flccd hmiplga domnt side
+Flu dt novel A w oth man
+Flu dt nvl A w oth resp
+Flu-2009 H1N1 w oth resp
+Flushing
+Fm hx genital malig NEC
+Fm hx ovary malignancy
+Fm hx prostate malig
+Fm hx-infect/parasit dis
+Fnctnl urinary incontnce
+Foc choroiditis post NEC
+Fold in descemet membran
+Follow-up exam NOS
+Food pois: clostrid NEC
+Food pois: v. parahaem
+Food prep & cleanup
+Foot & mouth disease
+Forearm deformity NOS
+Foreign bdy gu tract NOS
+Foreign body GI NOS
+Foreign body hand-infect
+Foreign body hip/leg
+Foreign body in ear
+Foreign body in larynx
+Foreign body in pharynx
+Foreign body in stomach
+Foreign body in trachea
+Foreign body middle ear
+Foreign body shouldr/arm
+Foreign body trunk-infec
+Fracture
+Fracture NOS-closed
+Fracture NOS-open
+Fracture ischium-closed
+Fracture of sternum-clos
+Fracture one rib-closed
+Fracture six ribs-closed
+Fracture three ribs-clos
+Fracture three ribs-open
+Fracture trunk bone-open
+Fracture ulna NOS-closed
+Fracture ulna NOS-open
+Fragile x syndrome
+Free weights
+Frontotemp dementia NEC
+Ft/adj xtrcorp dial cath
+Ftng cardiac pacemaker
+Fuch hetrochrom cyclitis
+Full incontinence-feces
+Fum/vapor up resp inflam
+Functional diarrhea
+Fundus coloboma
+Fusion w def stereopsis
+Fx 1st metacarp base-opn
+Fx anat neck humerus-opn
+Fx anatom nck humerus-cl
+Fx angle of jaw-closed
+Fx arm mult/NOS-closed
+Fx arm mult/NOS-open
+Fx astragalus-closed
+Fx bimalleolar-closed
+Fx bimalleolar-open
+Fx c1 vertebra-closed
+Fx c2 vertebra-closed
+Fx c4 vertebra-open
+Fx c6 vertebra-open
+Fx c7 vertebra-closed
+Fx c7 vertebra-open
+Fx carpal bone NEC-close
+Fx clavic
+Fx clavicl
+Fx clavicle NOS-open
+Fx clavicle shaft-open
+Fx coron proc mandib-cl
+Fx coronoid proc ulna-cl
+Fx corpus cavrnosm penis
+Fx dental mat w/o loss
+Fx distal phal
+Fx distal radius NEC-opn
+Fx distal ulna-open
+Fx dorsal vertebra-open
+Fx eight/more ribs-open
+Fx facial bone NEC-open
+Fx femur
+Fx femur intrcap NOS-opn
+Fx femur shaft-closed
+Fx foot bone NOS-open
+Fx gr tuberos humer-open
+Fx hamate bone-open
+Fx humer
+Fx humerus NOS-closed
+Fx humerus NOS-open
+Fx lateral malleolus-opn
+Fx low end femur NEC-cl
+Fx low end femur NOS-cl
+Fx low femur epiphy-clos
+Fx low radius w ulna-opn
+Fx lower forearm NOS-cl
+Fx lower humerus NEC-cl
+Fx lumbar vertebra-close
+Fx malar/maxillary-open
+Fx metacarp base NEC-cl
+Fx metacarpal NOS-closed
+Fx metacarpal neck-close
+Fx mid/prx phal
+Fx mlt cervical vert-opn
+Fx mult cervical vert-cl
+Fx mult phalan
+Fx navicular
+Fx neck of femur NOS-opn
+Fx olecran proc ulna-opn
+Fx orbital floor-closed
+Fx phalanx
+Fx radius neck-closed
+Fx radius neck-open
+Fx radius shaft-open
+Fx radius w ulna NOS-cl
+Fx sacr-op/cauda inj NEC
+Fx sacrum-op/crd inj NOS
+Fx scapul
+Fx scapula NEC-closed
+Fx scapula NOS-open
+Fx shaft fib w tib-clos
+Fx surg nck humerus-clos
+Fx tibia NOS-closed
+Fx tibia w fibula NOS-cl
+Fx trapezium bone-closed
+Fx triquetral
+Fx up femur epiphy-open
+Fx up radius NEC/NOS-cl
+Fx up radius NEC/NOS-opn
+Fx up radius w ulna-clos
+Fx up tibia w fibula-opn
+Fx upper end fibula-clos
+Fx upper end fibula-open
+Fx upper end tibia-open
+Fx upper ulna NEC/NOS-cl
+GI mucositis (ulceratve)
+Gal&bil cal w/oth w/o ob
+Galactorrhea preg-unspec
+Galactorrhea-del w p/p
+Galactorrhea-delivered
+Galactorrhea-nonobstet
+Galactosemia
+Gall&bil cal w/ac w obs
+Gallstone ileus
+Gang ventral hernia NEC
+Ganglion of joint
+Gangosa
+Gastric anomaly NEC
+Gastric diverticulum
+Gastrointest hemorr NOS
+Gastrointestinal anthrax
+Gastrojejun ulc NOS-obst
+Gastrojejunal ulcer NOS
+Gastroschisis
+Gastrostomy comp - mech
+Gastrostomy comp NOS
+Gastrostomy status
+Gc cervicitis (acute)
+Gc endometritis
+Gc orchitis (acute)
+Gc sem vesiculit (acute)
+Gen osteoarthros-hand
+Gen psychiatric exam NEC
+Gen visual contraction
+Genetic anomaly leukocyt
+Genetic screening NEC
+Genetic suscept dis NEC
+Genital herpes NOS
+Genital organ anom NEC
+Genu valgum
+Genu varum
+Gingival recess-severe
+Glanders
+Glauc resid-ster induced
+Glauc w pupillary block
+Glaucoma NEC
+Glaucoma NOS
+Glaucoma w iris anomaly
+Glaucoma w ocular inflam
+Glossitis
+Glucocorticoid deficient
+Glucrtcod-rem aldsternsm
+Glycogenosis
+Goniosynechiae
+Gonococcal eye NEC
+Gonococcal pericarditis
+Gonorrhea carrier
+Gonorrhea-postpartum
+Graft-versus-host NOS
+Gram-neg septicemia NEC
+Grand multiparity-unspec
+Granular cornea dystrphy
+Gross hematuria
+Gstr/ddnts NOS w/o hmrhg
+Gstrontest vesl anomaly
+Gu infection-antepartum
+H simplex iridocyclitis
+H simplex meningitis
+H zoster keratoconjunct
+H zoster otitis externa
+Hair disease NOS
+Hair diseases NEC
+Hairy-cell leukem head
+Hallucinog abuse-contin
+Hallucinogen dep-contin
+Hallucinogen dep-episod
+Hallux varus
+Hamartoses NEC
+Hand
+Handheld interac elec dv
+Hantavirus infection
+Hb-S dis w/o crisis NEC
+Hb-SS/hb-C dis w/o crsis
+Hdgk grn unsp xtrndl org
+Headache syndrome NEC
+Health exam-pop survey
+Health supv nb 8-28 days
+Healthy person w sick
+Hearing conservatn/trtmt
+Hearing exam-fail screen
+Hearing loss d/t noise
+Heart chamber lacer-opn
+Heart chamber lacerat-cl
+Heart complic-antepart
+Heart contusion-open
+Heart failure NOS
+Heart injury NOS-open
+Heart laceration-closed
+Heart valve replac NEC
+Heart valve transplant
+Heat cramps
+Heat effect NEC
+Heat exhaust-salt deple
+Heat stroke & sunstroke
+Heavy-for-date infan NEC
+Hebephrenia-subchronic
+Helminth arthrit-forearm
+Helminth arthrit-hand
+Helminth arthrit-pelvis
+Hem early pg NEC-antepar
+Hemangioma NEC
+Hemangioma intracranial
+Hemangioma retina
+Hemarthrosis-ankle
+Hemarthrosis-unspec
+Hematemesis
+Hematoma of vulva
+Hematuria NOS
+Hemicrania continua
+Hemoglobinuria
+Hemolytc trans react NOS
+Hemopericardium
+Hemoptysis NEC
+Hemorr choroid detachmnt
+Hemorrhagic cond NOS
+Hemorrhoids NOS
+Heparin-indu thrombocyto
+Hepatitis B carrier
+Hepatitis in oth inf dis
+Hepatomegaly
+Hered hemolytic anem NEC
+Hered hemolytic anem NOS
+Heredit tooth struct NEC
+Hereditary spherocytosis
+Hernia
+Hernia NOS
+Herpes simplex myelitis
+Herpes zoster NOS
+Herpes zoster myelitis
+Herpetic gingivostomat
+Herpetic vulvovaginitis
+Hiccough
+High altitude residence
+High vaginal lac-postpar
+Hip & thigh injury NOS
+Histoplasm caps pneumon
+Histoplasm dub pericard
+Histoplasma capsulat NEC
+Histoplasma capsulat NOS
+Histoplasma duboisii NOS
+Histrionic person NOS
+Hit by train-pedestrian
+Hmplg mgrn w ntrc w st
+Hodg lymph deplet abdom
+Hodg lymph deplet head
+Hodg lymph-histio inguin
+Hodg lymph-histio spleen
+Hodg nodul sclero head
+Hodg nodul sclero mult
+Hodg nodul sclero pelvic
+Hodgkins dis NOS abdom
+Hodgkins dis NOS head
+Hodgkins dis NOS inguin
+Hodgkins granulom mult
+Hodgkins granulom spleen
+Hodgkins mix cell axilla
+Hodgkins mix cell spleen
+Hodgkins mix cell thorax
+Hodgkins paragran head
+Hodgkins paragran mult
+Hodgkins paragran thorax
+Hodgkins sarcoma mult
+Hodgkins sarcoma spleen
+Home remote from hospitl
+Homonymous hemianopsia
+Horizontl displace-teeth
+Horseshoe tear of retina
+Hourglass stricture stom
+Housing/econo circum NEC
+Hpt B acte coma wo dlta
+Hpt B chrn coma w dlta
+Hpt B chrn coma wo dlta
+Hpt B chrn wo cm w dlta
+Hpt B chrn wo cm wo dlta
+Hpt C acute w hepat Coma
+Hpt C w hepatic coma NOS
+Hpt dlt wo b wo hpt coma
+Htlv-ii infectn oth dis
+Human herpesvirus 6 infc
+Human herpesvirus 7 infc
+Human immuno virus dis
+Humoral immunity def NEC
+Huntingtons chorea
+Hx Methicln resist Staph
+Hx TIA/stroke w/o resid
+Hx antineoplastic chemo
+Hx failed mod sedation
+Hx inhaled steroid thrpy
+Hx malig neoplasm NOS
+Hx malig neuroendo tumor
+Hx malig renal pelvis
+Hx monoclonal drug thrpy
+Hx of anaphylaxis
+Hx of arthritis
+Hx of brain malignancy
+Hx of contraception
+Hx of disease NOS
+Hx of eye malignancy
+Hx of gastric malignancy
+Hx of kidney malignancy
+Hx of liver malignancy
+Hx of lymphoid leukemia
+Hx of ovarian malignancy
+Hx of physical abuse
+Hx pathological fracture
+Hx retained FB
+Hx stress fracture
+Hx systemc steroid thrpy
+Hx traumatc brain injury
+Hx traumatic fracture
+Hx-anesthetic allergy
+Hx-cong malform-eye
+Hx-cong malform-resp sys
+Hx-cong malform-skin
+Hx-congenital malfor NEC
+Hx-contct/expos asbestos
+Hx-endocr/meta/immun dis
+Hx-female genit malg NOS
+Hx-health hazard NOS
+Hx-health hazards NEC
+Hx-hypospadias
+Hx-major cardiovasc surg
+Hx-malig skin melanoma
+Hx-mental disorder NOS
+Hx-milk prod allergy
+Hx-nose/ear/sinus malig
+Hx-penicillin allergy
+Hx-resp org malignan NOS
+Hx-seafood allergy
+Hx-sulfonamides allergy
+Hx-tracheal malignancy
+Hx-vaccine allergy
+Hx-ven thrombosis/embols
+Hydrocele NOS
+Hydrops fetalis no isoim
+Hydrops of gallbladder
+Hyp hrt dis NOS w/o hf
+Hyp ht/kd NOS I-IV w hf
+Hypercementosis
+Hypermature cataract
+Hypermetropia
+Hypernasality
+Hyperosmolality
+Hyperostosis of skull
+Hyperplasia of appendix
+Hyperpotassemia
+Hypersom w slp apnea NOS
+Hypersomnia NOS
+Hypersplenism
+Hypertens NOS-antepartum
+Hypertonicity of bladder
+Hypertroph osteoarthrop
+Hypertroph tongue papill
+Hypertrophy T and A
+Hypertrophy adenoids
+Hypertrophy of breast
+Hypertrophy of clitoris
+Hypertrophy tonsils
+Hypertropia
+Hyperventilation
+Hypnic headache
+Hypoact labyrinth unilat
+Hypogammaglobulinem NOS
+Hypopigmentation lid
+Hypoplas left heart synd
+Hypoplasia of breast
+Hypopotassemia
+Hypopyon
+Hypopyon ulcer
+Hypotension NEC
+Hypothyroidism NOS
+Hypotrichosis of eyelid
+Hypract labyrinth unilat
+Hysteria NOS
+Iatrogen pulm emb/infarc
+Ice Skating
+Ice hockey
+Identity disorder
+Idiopathc trans myelitis
+Idiopathic osteoporosis
+Iliac artery embolism
+Ill-define condition NEC
+Illeg ab w compl NEC-inc
+Illeg ab w embolism-unsp
+Illeg ab w hemorr-inc
+Illeg ab w met dis-unsp
+Illeg ab w pel damag-inc
+Illeg ab w pel damg-comp
+Illeg ab w pelv inf-comp
+Illeg ab w ren fail-unsp
+Illeg abort uncompl-comp
+Illeg abort uncompl-inc
+Illeg abort w shock-comp
+Illegitimate pregnancy
+Illg ab w compl NEC-unsp
+Immune mechanism dis NEC
+Immune mechanism dis NOS
+Impaired renal funct NOS
+Implantation cysts
+Impulse control dis NOS
+In utero proc NEC aff NB
+Inadequate housing
+Inapp chg hCG early preg
+Inapprt diet eat habits
+Incipient cataract
+Inclusion body myositis
+Indeterm stage glaucoma
+Indeterminate leprosy
+Inf arthrit NEC-oth site
+Inf arthrit NOS-ankle
+Inf arthrit NOS-forearm
+Inf arthritis NEC-pelvis
+Inf arthritis NEC-shlder
+Inf arthritis NEC-up/arm
+Inf arthritis NOS-shlder
+Inf mcrg rstn oth drg ml
+Inf mcrg rstn pncllins
+Inf mcrg rstn qn flrq ml
+Inf mcrg rstn sulfnmides
+Inf spasm w intract epil
+Inf spasm w/o intr epil
+Infc mcrg drgrst nt mult
+Infect NOS-antepartum
+Infect NOS-delivered
+Infect derm lid w deform
+Infect dis NEC-delivered
+Infect nipple-del w p/p
+Infect nipple-postpartum
+Infection of kidney NOS
+Infectious diarrhea NOS
+Infertility-tubal origin
+Infertility-uterine orig
+Infestation NOS
+Infl myopathy in oth dis
+Inflam postproc bleb
+Inflam spondylopathy NEC
+Inflam spondylopathy NOS
+Inflamed sbrheic keratos
+Inflamm polyarthrop NOS
+Infundib pulmon stenosis
+Infusion reaction NEC
+Inhibited sex excitement
+Initiate contracept NEC
+Inj abdominal vessel NOS
+Inj anter tibial artery
+Inj anterior tibial vein
+Inj axillary vessel NOS
+Inj cutan senso nerv/leg
+Inj deep plantar vessel
+Inj extern jugular vein
+Inj external carotid art
+Inj infer vena cava NOS
+Inj innomin/subclav vein
+Inj internl jugular vein
+Inj mesenteric vess NEC
+Inj mlt head/neck vessel
+Inj nerve pelv/leg NEC
+Inj nerve root/plex NOS
+Inj nerve shldr/arm NOS
+Inj pelv org NEC-postpar
+Inj post tibial artery
+Inj posterior tib nerve
+Inj super mesenteric art
+Inj superf nerv head/nck
+Inj superfic femoral art
+Injury arm vessel NOS
+Injury arm vessels NEC
+Injury celiac axis NEC
+Injury gastric artery
+Injury hypoglossal nerve
+Injury iliac artery
+Injury iliac vessel NEC
+Injury iliac vessel NOS
+Injury mlt site/site NEC
+Injury of abdomen NEC
+Injury ovarian vein
+Injury paintball gun NOS
+Injury peroneal nerve
+Injury popliteal vein
+Injury portal vein
+Injury pulmonary artery
+Injury renal artery
+Injury splenic artery
+Injury thoracic aorta
+Injury to acoustic nerve
+Injury to facial nerve
+Injury to mult nerves
+Injury to nerve NOS
+Injury trochlear nerve
+Injury trunk nerve NOS
+Injury ulnar nerve
+Injury-NEC
+Injury-NOS
+Injury-aircraft crash
+Injury-cut instrument
+Injury-extreme cold
+Injury-hunting rifle
+Injury-scald
+Injury-site NOS
+Injury-strang/suff NOS
+Injury-submersion
+Injury-suff w plas bag
+Inlet contract-antepart
+Inlet contraction-unspec
+Insect bite NEC
+Insect bite foot/toe
+Insect bite head
+Insect bite hip & leg
+Insect bite shld/arm-inf
+Insomnia NOS
+Instrmnt fail-proced NOS
+Int derangement knee NOS
+Int inf clstrdium dfcile
+Int inf e coli entrhmrg
+Int inf e coli entrtoxgn
+Int infec campylobacter
+Int thrombos hemorrhoid
+Integument tiss symp NEC
+Intellect disability NOS
+Intermit heterotrop NOS
+Intermittnt exophthalmos
+Interstit keratitis NEC
+Interstitial myositis
+Intest malabsorption NOS
+Intest obst-inspiss milk
+Intestin TB NEC-histo dx
+Intestin TB NEC-micro dx
+Intestin TB NEC-oth test
+Intestinal abscess
+Intestinal adhes w obstr
+Intestinal anomaly NEC
+Intestinal bypass status
+Intestinal disorder NOS
+Intestinal fixation anom
+Intracranial abscess
+Intraocular FB NEC
+Intraocular FB NOS
+Intrathorac inj NEC-open
+Intrathorac inj NOS-open
+Intrathoracic inj NEC-cl
+Intrauter death-deliver
+Intravag tors sperm cord
+Inversion of uterus-unsp
+Irregular astigmatism
+Ischemic optic neuropthy
+Isol tracheal tb-no exam
+Isolat trach tb-oth test
+Iud surveillance
+Jaundice NOS
+Joint dis NEC-up/arm
+Joint dis NOS-hand
+Joint dis NOS-unspec jt
+Joint effusion-ankle
+Joint effusion-mult jts
+Joint effusion-pelvis
+Joint pain-hand
+Joint pain-mult jts
+Joint pain-shlder
+Joint pain-up/arm
+Joint replaced elbow
+Joint sympt NEC-mult jts
+Joint sympt NEC-unsp jt
+Joint symptom NEC-ankle
+Joint symptom NEC-hand
+Joint symptom NEC-l/leg
+Joint symptom NEC-pelvis
+Joint symptom NEC-up/arm
+Jt contracture-hand
+Jt derangement NEC-ankle
+Jt derangement NEC-hand
+Jt derangement NOS-hand
+Jt derangment NEC-pelvis
+Jt derangment NEC-shlder
+Jt derangment NOS-oth jt
+Jt derangment NOS-pelvis
+Jt derangment NOS-shlder
+Jt derangment NOS-up/arm
+Jt derangmnt NOS-forearm
+Jt stiffness NEC-ankle
+Jt stiffness NEC-shlder
+Jumping rope
+Juv osteochondros pelvis
+Juv osteochondrosis NEC
+Juv osteochondrosis foot
+Juv osteochondrosis leg
+Juv rheum arthritis NOS
+Juvenile neurosyph NOS
+Juxtapap foc choroiditis
+Kaschin-beck dis-l/leg
+Kaschin-beck dis-shlder
+Keratoconjunctivitis NEC
+Keratoconus NOS
+Kidney transplant status
+Kuru
+Kyphosis NEC
+Kyphosis in oth dis
+Laboratory exam NEC
+Lacer of cervix-postpart
+Lack of coordination
+Lack of physical exercse
+Lack post occlsl support
+Lacrim passge change NEC
+Lacrimal fistula
+Lacrimal mucocele
+Lacrimal sac stenosis
+Lacrimal syst dis NOS
+Lacriml punctum stenosis
+Lactat dis NEC-antepart
+Lactat dis NOS-del w p/p
+Lactation dis NEC-deliv
+Lactation dis NEC-unspec
+Lactation fail-unspec
+Lambert-Eaton syn ot dis
+Lambert-Eaton synd neopl
+Land maintain/cnstrt NEC
+Lap surg convert to open
+Large cell lymph abdom
+Large cell lymph spleen
+Large cell lymph xtrndl
+Large cell lymphoma head
+Laryngotrach anomaly NEC
+Lat disloc prox tibia-cl
+Lat schizo-subchr/exacer
+Lat schizophren-remiss
+Late congen syph latent
+Late ef CV dis-cognf def
+Late ef-spch/lng def NOS
+Late eff FB in orifice
+Late eff cert ext cause
+Late eff cns abscess
+Late eff cran nerve inj
+Late eff motor vehic acc
+Late eff nerve inj NEC
+Late eff of self-injury
+Late eff superficial inj
+Late eff surg/med compl
+Late effct cmplcatn preg
+Late effec tendon injury
+Late effect
+Late effect acute polio
+Late effect arm fx
+Late effect leg fx
+Late effect of crushing
+Late effect of trachoma
+Late effect tb
+Late metab acidosis NB
+Late sympt syphilis NOS
+Late syphilis NOS
+Late syphilis latent
+Latent nystagmus
+Latent schizo-chr/exacer
+Latent yaws
+Lateral globe displacmnt
+Lbr w plan C/S-del w p/p
+Left bb hemiblock
+Leg ab w compl NEC-comp
+Leg ab w compl NOS-unsp
+Leg ab w metab dis-unsp
+Leg abor w pelv inf-inc
+Leg abor w pelv inf-unsp
+Leg abor w ren fail-comp
+Legal abort uncompl-unsp
+Legal abort w hemorr-inc
+Legal abort w shock-comp
+Legal abort w shock-unsp
+Legal blindness-usa def
+Legal circumstances
+Legal interven-blunt obj
+Legal intervent-gas
+Legal intervention NOS
+Leprosy NOS
+Leptospiros icterohem
+Leptospirosis NOS
+Lethal midline granuloma
+Letterer-siwe dis pelvic
+Letterer-siwe dis spleen
+Leuk NOS w/o achv rmsn
+Leukocytosis NOS
+Leukoplakia of penis
+Lftsded ulcertve colitis
+Light-for-dates <500g
+Lipoid metabol dis NEC
+Lipoprotein deficiencies
+Liveborn NOS-hosp w cs
+Liveborn NOS-nonhosp
+Liver injury NEC-open
+Liver injury NOS-closed
+Liver lacerat
+Liver transplant status
+Lobomycosis
+Loc 2nd osteoarth-pelvis
+Loc 2nd osteoarth-shlder
+Loc 2nd osteoarthr-ankle
+Loc 2nd osteoarthros NEC
+Loc osteoar NOS-site NEC
+Loc osteoarth NOS-shlder
+Loc osteoarth NOS-unspec
+Loc osteoarth NOS-up/arm
+Loc prim osteoart-pelvis
+Loc prim osteoarth-ankle
+Loc prim osteoarthr NEC
+Local anterior staphylma
+Local traumatic opacity
+Locked-in state
+Long-term anti-inflamtry
+Long-term use of aspirin
+Long-term use of insulin
+Longitud defic radioulna
+Longitud vaginal septum
+Longitudin defic humerus
+Longitudinal defic tibia
+Loose body-ankle
+Loose body-unspec
+Loss control mv acc-driv
+Loss control mv-ped cycl
+Loss control mv-pers NEC
+Loss control mv-pers NOS
+Loss of teeth d/t trauma
+Loss teeth d/t peri dis
+Louping ill
+Low birthwt 1000-1499g
+Low birthwt 1500-1999g
+Low birthwt 500-999g
+Low bladder compliance
+Low vision
+Lower limb anomaly NOS
+Lower urin calcul NEC
+Lt ef oth parals non-dom
+Lt eff nerv inj shld/arm
+Lt-date w/mal 1000-1249g
+Lt-date w/mal 1750-1999g
+Lt-date w/mal 750-999g
+Lt-for-date w/mal 2500+g
+Lt-for-date w/mal wtNOS
+Lt-for-dates 1250-1499g
+Lt-for-dates 500-749g
+Lte ef-mplga low lmb NOS
+Lte ef-mplga low lmb dom
+Lumbar puncture reaction
+Lung contusion-closed
+Lung contusion-open
+Lung injury NOS-closed
+Lung laceration-open
+Lupus erythematosus
+Lym dplt unsp xtrndl org
+Lymphadenitis NOS
+Lymphangioma
+Lymphangitis
+Lymphocytosis-symptomatc
+Lymphomas NEC head
+Lymphomas NEC spleen
+Lymphomas NEC thorax
+Lymphosarcoma abdom
+Lymphosarcoma mult
+Lymphosarcoma spleen
+Machine acc-unpow boat
+Machine accid-mining
+Machine accident-skier
+Machine dependence NOS
+Machinery accident NOS
+Macrocheilia
+Macrostomia
+Macrotia
+Mal carcnoid hindgut NOS
+Mal crcnoid lg intst NOS
+Mal histiocytosis axilla
+Mal histiocytosis spleen
+Mal hyp ht/kd I-IV w hf
+Mal hyp kid w cr kid V
+Mal hypert hrt dis w hf
+Mal mastocytosis head
+Mal neo access sinus NOS
+Mal neo ampulla of vater
+Mal neo ant mediastinum
+Mal neo bones ankle/foot
+Mal neo breast up-inner
+Mal neo cereb ventricle
+Mal neo dorsal tongue
+Mal neo endocrine NOS
+Mal neo esophagus NOS
+Mal neo gi/intra-abd NEC
+Mal neo head/face/neck
+Mal neo intrahepat ducts
+Mal neo labia majora
+Mal neo lacrimal gland
+Mal neo lip
+Mal neo liver
+Mal neo long bones arm
+Mal neo lower 3rd esoph
+Mal neo lower vermilion
+Mal neo lymph intra-abd
+Mal neo lymph-axilla/arm
+Mal neo lymph-inguin/leg
+Mal neo male genital NEC
+Mal neo male genital NOS
+Mal neo maxillary sinus
+Mal neo mediastinum NEC
+Mal neo mediastinum NOS
+Mal neo middle lobe lung
+Mal neo nasal cavities
+Mal neo orophryn ill-def
+Mal neo parietal lobe
+Mal neo parietal pleura
+Mal neo post nasopharynx
+Mal neo salivary NOS
+Mal neo sclp/skn nck NEC
+Mal neo sigmoid colon
+Mal neo skn face NEC/NOS
+Mal neo soft tis abdomen
+Mal neo spermatic cord
+Mal neo splenic flexure
+Mal neo stom great curv
+Mal neo super nasopharyn
+Mal neo tip/lat tongue
+Mal neo tongue junction
+Mal neo transverse colon
+Mal neo urinary NEC
+Mal neo urinary NOS
+Mal neo uterine isthmus
+Mal neo visceral pleura
+Malaria NOS
+Malaria-postpartum
+Male gen dis in oth dis
+Male gen inflam dis NEC
+Male genetic test NEC
+Male genital dis NOS
+Male infertility NOS
+Malfunc gu dev/graft NEC
+Malfunc gu dev/graft NOS
+Malig carcinoid appendix
+Malig carcinoid ileum
+Malig carcinoid jejunum
+Malig carcinoid thymus
+Malig melanoma ear
+Malig melanoma skin NOS
+Malig neo brain NEC
+Malig neo disseminated
+Malig neo frontal lobe
+Malig neo gallbladder
+Malig neo gum NEC
+Malig neo gum NOS
+Malig neo intestine NOS
+Malig neo parotid
+Malig neo skin lip NEC
+Malig neo skin site NOS
+Malig neo skin trunk NOS
+Malig neo skn up lmb NEC
+Malig neo soft palate
+Malig neo subglottis
+Malig neo submandibular
+Malig neo upper gum
+Malig neopl anal canal
+Malig neopl bone NOS
+Malig neopl-transp organ
+Malign neo pineal gland
+Malign neopl adrenal
+Malign neopl choroid
+Malign neopl cornea
+Malign neopl eye NEC
+Malign neopl orbit
+Malign neopl retina
+Malignant ascites
+Malignant hypertension
+Malignant neo colon NEC
+Malignant neo larynx NEC
+Malignant neo larynx NOS
+Malignant neo trachea
+Malignant neopl jejunum
+Malignant neopl rectum
+Malignant neopl thymus
+Malignant otitis externa
+Malnutrition mild degree
+Malnutrition mod degree
+Malocc- Angles class I
+Malocc-Angles class II
+Malocc-Angles class III
+Malocclusion NOS
+Malpos/dispro NEC aff NB
+Malposition NEC-deliver
+Malposition NOS-antepart
+Malposition NOS-unspec
+Malt workers lung
+Malunion of fracture
+Mantle cell lymph abdom
+Mantle cell lymph spleen
+Margin zone lym inguin
+Margin zone lym pelvic
+Martial arts
+Mastitis-delivered
+Mat comp in utero-p/p
+Mat pstntl scr-chrm anom
+Matern cardioresp aff NB
+Matern hypoten syn-deliv
+Matern hypoten-del w p/p
+Matern hypotens-antepar
+Matern nutrit dis aff NB
+Maternal DES af NB/fetus
+Maternal distress-unspec
+Maternal infec aff NB
+Maternl alc aff NB/fetus
+Mathematics disorder
+Maxillary asymmetry
+Maxillary hyperplasia
+Mch cmp autm mplnt dfbrl
+Measles complication NOS
+Mech com orth dev NEC
+Mech loosening pros jt
+Mech prob w neck & trunk
+Mechanical prob w head
+Mechanical strabism NOS
+Meconium dur del aff NB
+Meconium obstruction
+Meconium staining
+Med disl prox tibia-open
+Med disloc elbow-open
+Med disloc prox tibia-cl
+Med popliteal nerve les
+Mediastinum disease NEC
+Medulloadrenal hyperfunc
+Megaloblastic anemia NEC
+Memory loss
+Meningismus
+Meningitis NOS
+Meningococc adrenal synd
+Meningococc carditis NOS
+Meningococc encephalitis
+Meningococc pericarditis
+Menopausal disorder NEC
+Menstrual disorder NOS
+Menstrual extraction
+Mental problems NEC
+Mental/behavior prob NOS
+Merkel cell ca-face
+Merkel cell ca-low limb
+Mesenteric lymphadenitis
+Metabolic cardiomyopathy
+Metastat dissem retinit
+Metatarsus varus
+Meth res pneu d/t Staph
+Meth resis Staph carrier
+Meth sus pneum d/t Staph
+Meth susc Staph carrier
+Methemoglobinemia
+Mgkrycyt leuk in relapse
+Mgkrycyt leuk w rmsion
+Mgr NOS wo ntrc w st mgr
+Mgrn w aur wo ntrc mgrn
+Mgrn w aura w ntrc mgrn
+Mgrn w aura wo ntrc mgrn
+Mgrn wo aura w ntrc mgrn
+Microdeletions NEC
+Microglossia
+Microphthalmos NOS
+Microstomia
+Microtia
+Middle ear anomaly NEC
+Mild hyperem grav-deliv
+Mild intellect disabilty
+Mild preeclamp-del w p/p
+Miliary TB NEC-oth test
+Miliary TB NEC-unspec
+Miliary TB NOS-micro dx
+Miliary TB NOS-oth test
+Miliary TB NOS-unspec
+Mineral deficiency NEC
+Minor opacity of cornea
+Mitral insuf/aort stenos
+Mitral valve dis NEC/NOS
+Mixed development dis
+Mixed intestine helminth
+Mixed lymphosarc abdom
+Mixed lymphosarc axilla
+Mixed lymphosarc head
+Mixed lymphosarc thorax
+Mixed malaria
+Mnplg lwr lmb nondmnt sd
+Mod intellect disability
+Mod nonprolf db retinoph
+Monkeypox
+Mono leuk NOS relapse
+Monoart juv rheum arthr
+Monoarthrit NOS-oth site
+Monoarthritis NOS-hand
+Monoarthritis NOS-l/leg
+Monoc esotrop w x/y pat
+Monocular exotropia
+Monocytosis-symptomatic
+Monoplegia NOS
+Monplga upr lmb unsp sde
+Moorens ulcer
+Morbid obesity
+Mosquito-borne hem fever
+Motor neuron disease NEC
+Mucositis d/t drugs NEC
+Mucous polyp of cervix
+Mul gest-fet reduct unsp
+Mult brth NOS-before adm
+Mult crushing injury leg
+Mult endo neop type IIB
+Mult fx mandible-closed
+Mult fx metacarpus-close
+Mult ges malpres-antepar
+Mult ges w fet loss-unsp
+Mult gest 2+ monochr NEC
+Mult gest malpres-deliv
+Mult gestation NOS-deliv
+Mult lb/sb-in hos w/o cs
+Mult mye w/o achv rmson
+Mult nb/sb-before adm
+Mult nerve root/plex inj
+Multi gestat NEC-deliver
+Multiphasic screening
+Multiple contusion trunk
+Multiple contusions NEC
+Multiple fx hand-closed
+Multiple fx hand-open
+Mumps orchitis
+Mumps polyneuropathy
+Musc disuse atrophy NEC
+Muscle disorders NEC
+Muscle strength exer NEC
+Muscle/ligament dis NEC
+Muscle/ligament dis NOS
+Muscskel sympt limb NEC
+Musculoskel anom NEC/NOS
+Mv acc board/alight-driv
+Mv acc board/alight-psgr
+Mv board/alight-pers NEC
+Mv board/alight-pers NOS
+Mv coll w obj-pers NOS
+Mv coll w ped-anim rid
+Mv coll w pedes-pers NOS
+Mv collis NOS-pers NEC
+Mv collis NOS-pers NOS
+Mv collision NOS-driver
+Mv n-traf NEC-anim rider
+Mv n-traff NEC-mcyc psgr
+Mv n-traff NEC-pers NEC
+Mv n-traff NEC-pers NOS
+Mv n-traff NEC/NOS-psgr
+Mv traff acc NEC-driver
+Mv traff acc NEC-pasngr
+Mv-oth veh coll-motcycl
+Mv-oth veh coll-pedest
+Mv-oth veh coll-pers NOS
+Mv-oth veh coll-st car
+Mv-train coll-driver
+Myalgia and myositis NOS
+Mycobacterial dis NEC
+Mycobacterial dis NOS
+Mycosis fungoides axilla
+Mycotic arthrit-forearm
+Mycotic arthritis-hand
+Mycotic mycetomas
+Mydriasis not d/t mydrtc
+Myelitis-oth viral dis
+Myelodysplastic synd NOS
+Myelodyspls syn w 5q del
+Myiasis
+Myl sarcoma wo achv rmsn
+Myopathies NEC
+N-traf board/alight-driv
+N-traf brd/alit-mcyc psg
+N-traf brd/alit-pedest
+N-traf brd/alit-st car
+NB GI hemorrhage
+NB acidosis NEC
+NB asp w/o resp symp NEC
+NB atelectasis NEC/NOS
+NB breast engorgement
+NB cardiac arrest
+NB cereb irrit NEC/NOS
+NB drug reaction/intoxic
+NB drug withdrawal syndr
+NB feeding problems
+NB hemolyt dis-isoim NEC
+NB obsrv suspct infect
+NB respiratory arrest
+NB respiratory cond NOS
+NB subarachnoid hemorr
+NB urinary tract infectn
+Nail anomalies NEC
+Narcolepsy w cat oth dis
+Nasal & sinus dis NEC
+Nasopharynx diphtheria
+Nd vac hmophlus inflnz b
+Near-tot imp/near-normal
+Necrobacillosis
+Need prphyl vc varicella
+Neo skin ear/ex canl NEC
+Neonat jaund in oth dis
+Neonatal conjunctivitis
+Neonatal hemorrhage NEC
+Neonatal infec mastitis
+Nephritis NOS in oth dis
+Nephrogen diabetes insip
+Nephroptosis
+Nephrotic syn
+Nerv root/plexus dis NOS
+Nerve inj NEC at birth
+Nervousness
+Neuralgia/neuritis NOS
+Neuralgic amyotrophy
+Neurasthenia
+Neuroend cell hyprpl inf
+Neurofibromatosis NEC
+Neuroleptic malgnt synd
+Neuroma amputation stump
+Neuropathy in diabetes
+Neurosyphilis NOS
+Neurpthy toxic agent NEC
+Neutropenia d/t infectn
+Night blindness NEC
+Night blindness NOS
+No vaccin-chronc illness
+Nocturnal enuresis
+Nodular lymphoma abdom
+Nodular lymphoma axilla
+Non-abo incomp/acute HTR
+Non-abo incomp/delay HTR
+Noncmplnt w renal dialys
+Noninfect lymph dis NEC
+Noninfect lymph dis NOS
+Noninflam dis cervix NOS
+Noninflam dis vulva NEC
+Nonorganic sleep dis NEC
+Nonparaly polio-type NOS
+Nonpsychot brain syn NOS
+Nonpsychotic disord NOS
+Nonpyogen thrombos sinus
+Nonsp abn find-gu organs
+Nonsp abn find-ms system
+Nonsp abn fnd-abdom area
+Nonsp positive cult NEC
+Nonsp rea gma interferon
+Nontox uninodular goiter
+Nontrauma comp syn NEC
+Norml pressure hydroceph
+Nose anomaly NEC
+Nuclear cataract
+Nursemaids elbow
+Nutrition deficiency NEC
+Nutrition optc neuropthy
+Nutritional anemia NEC
+Nystagms w vestibulr dis
+Ob inj pelv org NEC-del
+Ob inj pelv org NEC-unsp
+Ob pelvic hematoma-unsp
+Ob perin traum NEC-unsp
+Ob perineal lac NOS-del
+Ob perineal lac NOS-unsp
+Ob perineal trau NEC-del
+Ob trauma NOS-postpartum
+Ob trauma NOS-unspec
+Obesity hypovent synd
+Obesity-delivered w p/p
+Obesity-postpartum
+Obj w-w/o sub fall NEC
+Objective tinnitus
+Obsc afric cardiomyopath
+Observ-mental cond NEC
+Obsrv NB suspc resp cond
+Obstacle course
+Obstet shock-deliv w p/p
+Obstetric shock-deliver
+Obstr ventral hernia NEC
+Obstruc labor NEC-unspec
+Obstruc labor NOS-unspec
+Obstruct labor NEC-deliv
+Obstruct/fet malpos-unsp
+Obstructiv hydrocephalus
+Occlusal plane deviation
+Ocl bslr art w infrct
+Ocl bslr art wo infrct
+Ocl crtd art w infrct
+Ocl mlt bi art wo infrct
+Ocular hypertension
+Ocular lac w/o prolapse
+Ocular lacera w prolapse
+Ocular penetration NOS
+Oculoglandular tularemia
+Oil/essence pneumonitis
+Old bucket tear lat men
+Old detachment
+Old disrupt knee lig NEC
+Old disrupt med collat
+Old foreign body
+Old laceration of vulva
+Old magnet fb
+Oligohydramnios-antepar
+Omphalitis of newborn
+Omsk hemorrhagic fever
+One eye-mod/oth-blind
+One eye-mod/oth-near tot
+One eye-near tot/oth-NOS
+One eye-severe/oth-total
+One eye-severe/oth-unknw
+One eye-total/oth-normal
+Op skl base fx-deep coma
+Op skl base fx-prol coma
+Op skl base fx/cereb lac
+Op skl base fx/menin hem
+Op skl vlt fx-concus NOS
+Op skl vlt fx/br inj NEC
+Op skl/oth fx/br inj NEC
+Open anterior occlusion
+Open brain inj-coma NOS
+Open restoration margins
+Open wnd eustachian tube
+Open wnd finger w tendon
+Open wnd up arm w tendon
+Open wound arm NOS-compl
+Open wound auricle-compl
+Open wound axilla-compl
+Open wound breast-compl
+Open wound cheek-compl
+Open wound elbow-complic
+Open wound finger-compl
+Open wound foot w tendon
+Open wound foot-compl
+Open wound jaw-complicat
+Open wound nasal cavity
+Open wound nasal septum
+Open wound of breast
+Open wound of cheek
+Open wound of ear NOS
+Open wound of face NEC
+Open wound of finger
+Open wound of forearm
+Open wound of forehead
+Open wound of gum
+Open wound of head NEC
+Open wound of mouth NOS
+Open wound of palate
+Open wound of shoulder
+Open wound of wrist
+Open wound thyroid gland
+Open wound toe-compl
+Opioid abuse-episodic
+Opioid dependence-episod
+Opioid dependence-remiss
+Opioid/other dep-unspec
+Opisthorchiasis
+Opn angl brderln lo risk
+Opn brain inj w/o coma
+Opn brain inj-deep coma
+Opn brain inj-proln coma
+Opn brain lacer-coma NOS
+Opn cerebe cont-deep com
+Opn cerebe cont-prol com
+Opn cerebel cont-concuss
+Opn cerebel lac-brf coma
+Opn cerebel lac-coma NOS
+Opn cerebel lac-mod coma
+Opn cort contu-deep coma
+Opn cort contus-mod coma
+Opn cortex lac-deep coma
+Opn cortx lac-brief coma
+Opn cortx lac-proln coma
+Opn skl base fx-brf coma
+Opn skl base fx-coma NOS
+Opn skl base fx-mod coma
+Opn skl fx NEC-deep coma
+Opn skl fx NEC-prol coma
+Opn skl vlt fx-deep coma
+Opn skl vlt fx/menin hem
+Opn skl/oth fx-deep coma
+Opn skl/oth fx-prol coma
+Opn skl/oth fx/menin hem
+Opn skul base fx-concuss
+Opn skul fx NEC w/o coma
+Opn skul fx NEC-brf coma
+Opn skul vlt fx w/o coma
+Opn skul vlt fx-brf coma
+Opn skul vlt fx-coma NOS
+Opn skul/oth fx w/o coma
+Opn skul/oth fx-brf coma
+Opn skul/oth fx-coma NOS
+Opn skul/oth fx-mod coma
+Opn skull fx NEC-concuss
+Opn skull fx/oth bone fx
+Opn skull vault fracture
+Opn skull/oth fx-concuss
+Opn subdur hem-mod coma
+Opn wnd ant abdomen-comp
+Opn wnd ex ear NOS-compl
+Opn wnd genital NEC-comp
+Opn wnd lary w trac-comp
+Opn wnd leg NEC w tendon
+Opn wound elbow w tendon
+Opt chiasm w vascul dis
+Optic nerve disorder NOS
+Optic nerve injury
+Optic nerve sheath hemor
+Optic neuritis NEC
+Oral soft tissue dis NEC
+Orbital cysts
+Orbital disorder NOS
+Orbital myositis
+Orchitis with abscess
+Orchitis/epididymit NEC
+Organic hypersomnia NEC
+Organic hypersomnia NOS
+Organic insomnia NEC
+Organic parasomnia NEC
+Organic sleep apnea NOS
+Organic sleep movemt NEC
+Orthodontics aftercare
+Orthopedic aftercare NEC
+Orthopnea
+Orthotic training
+Ossification cerv lig
+Osteoarthro NOS-oth site
+Osteoarthros NOS-hand
+Osteoarthros NOS-unspec
+Osteoarthros NOS-up/arm
+Osteoarthrosis-mult site
+Osteochondropathy NOS
+Osteodystrophy NOS
+Osteomyelitis NOS-l/leg
+Osteomyelitis NOS-mult
+Osteomyelitis NOS-up/arm
+Osteopetrosis
+Osteopoikilosis
+Osteoporosis NEC
+Osteoporosis NOS
+Ot VD chlm trch unspf gu
+Ot pul insuf fol trm/srg
+Ot sp hmiplg nondmnt sde
+Ot sp hmiplga domnt side
+Ot sp hmiplga unspf side
+Oth VD chlm trch ans rct
+Oth VD chlm trch lowr gu
+Oth VD chlm trch oth gu
+Oth VD chlm trch pharynx
+Oth abn Pap smr anus/HPV
+Oth arthropod-borne dis
+Oth coll mov obj-mocycl
+Oth coll mov obj-pedest
+Oth coll mov obj-per NOS
+Oth coll mov obj-rider
+Oth coll stnd obj-st car
+Oth coll w mov obj-driv
+Oth con d/t chrm anm NEC
+Oth cond due to sex chrm
+Oth curr cond preg-unsp
+Oth curr cond-antepartum
+Oth curr cond-del w p/p
+Oth curr cond-postpartum
+Oth gram negatv bacteria
+Oth imnprfl npl w rmsn
+Oth imnprlf neo-relapse
+Oth inf vena cava thromb
+Oth integument anomalies
+Oth learning difficulty
+Oth leuk uns cl-relapse
+Oth lym leu wo achv rmsn
+Oth mult sb-before adm
+Oth mult sb-hosp w/o cs
+Oth multiple nb-nonhosp
+Oth my leuk wo achv rmsn
+Oth myel leuk in relapse
+Oth myelitis ot inf else
+Oth myl leuk w rmsion
+Oth off-road mv acc-driv
+Oth off-road mv-mcyc psg
+Oth parent-child problem
+Oth postsurgery lordosis
+Oth rd veh acc-pers NEC
+Oth severe malnutrition
+Oth spcf alveolar anmaly
+Oth spcf chlamydial infc
+Oth spcf deformity head
+Oth spcf dsdr urnry trct
+Oth spcf paralytic synd
+Oth spcf preop exam
+Oth spcf prph vscl anoml
+Oth specf bacteria
+Oth specf viral infectn
+Oth specfied retrovirus
+Oth spf gastrt w hmrhg
+Oth urinry incontinence
+Oth varn unsp xtrndl org
+Oth viral dis-del w p/p
+Oth vrl hepat w hpt coma
+Other acq back deformity
+Other air leak
+Other anaerobes
+Other anthrax manifest
+Other appendicitis
+Other esophagitis
+Other hammer toe
+Other heart block
+Other lung disease NEC
+Other metallosis
+Other serum reaction
+Other specfd counseling
+Other staphylococcus
+Other vd-delivered w p/p
+Otoscler-oval wndw oblit
+Outlet contraction-unsp
+Outlet dysfnc constption
+Ovale malaria
+Ovarian dysfunction NEC
+Ovarian hyperfunc NEC
+Overexert reptv mvmt NEC
+Overxrt-prolng stc postn
+Overxrt-sudn stren mvmt
+Palindrom rheum-ankle
+Palindrom rheum-forearm
+Palindrom rheum-shlder
+Pancreas
+Panuveitis
+Pap smear (ASC-US)
+Pap smear anus w HGSIL
+Pap smear cervix w HGSIL
+Pap smear confirmation
+Pap smear vag w ASC-US
+Pap smear vagina w ASC-H
+Pap smr anus-cytol malig
+Pap smr cytol evid malig
+Papillary muscle dis NEC
+Papillary muscle rupture
+Papilledema w incr press
+Papyraceous fetus-unspec
+Paracoccidioidomycosis
+Paral polio NEC-type 1
+Paral polio NEC-type NOS
+Paralysis NOS
+Paralysis agitans
+Paralytic ileus
+Paralytic lagophthalmos
+Paralytic strabismus NOS
+Paran schizo-subchr/exac
+Paranoid schizo-unspec
+Parapharyngeal abscess
+Parapoxvirus infectn NOS
+Parasite infest
+Parasitic infest eyelid
+Parathyroid disorder NEC
+Paratyphoid fever b
+Parox ventric tachycard
+Part androgen insnsitvty
+Part detach-dialysis
+Part detach-mult defect
+Part detach-singl defec
+Part edentulism
+Part epil w intr epil
+Part resolv traum catar
+Partial edentulism NOS
+Partial optic atrophy
+Pataus syndrome
+Path fx dstl radius ulna
+Path fx neck of femur
+Path fx oth specif site
+Pathol dislocat-ankle
+Pathol dislocat-hand
+Pathol dislocat-jt NEC
+Pathol dislocat-l/leg
+Pathol dislocat-mult jts
+Patulous eustachian tube
+Pauciart juv rheum arthr
+Paving stone degenerat
+Ped cyc acc-occ anim veh
+Ped cycle acc-occ st car
+Ped cycle acc-pers NEC
+Ped cycle acc-pers NOS
+Pediculosis NOS
+Pelv fx-open/pelv disrup
+Pelv fx-opn w/o pelv dis
+Pelvic deform NOS-unspec
+Pemphigoid
+Penetrat FB NEC eye
+Perforat tympan memb NOS
+Periapical absc w sinus
+Pericardial disease NOS
+Perin traum NOS-postpart
+Perinat GI sys dis NEC
+Perinat jaund:hemolysis
+Perinatal chr resp dis
+Periodic limb movement
+Periodontal disease NEC
+Periostitis-ankle
+Periostitis-mult
+Periostitis-up/arm
+Peripartum card-postpart
+Periph T cell lym multip
+Periph T cell lym pelvic
+Periph T cell lym xtrndl
+Periph T cell lymph head
+Periprosthetc osteolysis
+Peritonitis in infec dis
+Peroxisomal disorders
+Persist hyperplas thymus
+Persist occiptpost-antep
+Persist postop fistula
+Personality disorder NEC
+Personl hx nephrotic syn
+Pervasv dev dis-res NEC
+Peyronies disease
+Pharyngeal anomaly NEC
+Phlbts sprfc vn up extrm
+Phlycten keratoconjunct
+Photokeratitis
+Phthirus pubis
+Physical therapy NEC
+Pica
+Pinta late lesions
+Pinta primary lesions
+Pituitary disorder NOS
+Pityriasis versicolor
+Placenta prev hem-deliv
+Placenta prev hem-unspec
+Placenta previa-unspec
+Placental polyp-postpart
+Plague NOS
+Plantar fibromatosis
+Plastic surgery NEC
+Pleurisy w/o effus or TB
+Plica syndrome
+Pneum in oth sys mycoses
+Pneumococcal pneumonia
+Pneumococcus infect NOS
+Pneumonia anaerobes
+Pneumonia d/t chlamydia
+Pneumonia oth spcf bact
+Pneumonia oth strep
+Pois serotinin reuptake
+Pois tetracyclc andepres
+Pois-anti-parkinson drug
+Pois-antimycobac antibio
+Pois-antimycobac drg NEC
+Pois-antineop antibiotic
+Pois-antineopl/immunosup
+Pois-antiprotoz drug NEC
+Pois-arom analgesics NEC
+Pois-arsenic anti-infec
+Pois-autonomic agent NOS
+Pois-bact vaccin NEC/NOS
+Pois-coronary vasodilat
+Pois-corticosteroids
+Pois-diphtheria vaccine
+Pois-emollient cathartic
+Pois-erythromyc/macrolid
+Pois-gen anesth NEC/NOS
+Pois-local anest NEC/NOS
+Pois-nerve/plex-blk anes
+Pois-parasympathomimetic
+Pois-pharmaceut excipien
+Pois-poliomyelit vaccine
+Pois-respir drug NEC/NOS
+Pois-sedative/hypnot NOS
+Poison-agricult agent
+Poison-antipsychotic NEC
+Poison-antirheumatic NEC
+Poison-arsenic
+Poison-chloramphenicol
+Poison-drug/medicin NOS
+Poison-exhaust gas
+Poison-hair/scalp prep
+Poison-hydantoin derivat
+Poison-medicinal agt NEC
+Poison-mineral salts NEC
+Poison-muscle agent NEC
+Poison-psychotropic NOS
+Poison-psychotropic agt
+Poison-sedat/hypnotic
+Poison-typhus vaccine
+Poisoning by amphetamine
+Poisoning by caffeine
+Poisoning by other plant
+Poisoning-androgens
+Poisoning-antimalarials
+Poisoning-antipruritics
+Poisoning-antiviral drug
+Poisoning-blood agt NEC
+Poisoning-bromine compnd
+Poisoning-cardiotonics
+Poisoning-chloral hydrat
+Poisoning-cholera vaccin
+Poisoning-digestants
+Poisoning-expectorants
+Poisoning-gamma globulin
+Poisoning-glutethimide
+Poisoning-hallucinogens
+Poisoning-heroin
+Poisoning-methadone
+Poisoning-methaqualone
+Poisoning-mixed vaccine
+Poisoning-ovarian hormon
+Poisoning-oxytocic agent
+Poisoning-saluretics
+Poisoning-sympatholytics
+Poisoning-system agt NOS
+Poisoning-tetanus vaccin
+Poisoning-vitamin k
+Poisoning-vitamins NEC
+Polio osteopathy-ankle
+Polio osteopathy-up/arm
+Poliomyelitis contact
+Polyarthritis NOS-hand
+Polyarthritis NOS-l/leg
+Polyarthritis NOS-shlder
+Polyglandul dysfunc NOS
+Polyhydramnios-antepart
+Polyp of vagina
+Polypoid sinus degen
+Poor aesthetics restore
+Poor fetal growth-unspec
+Poor fetal grth-antepart
+Post cornea dystrphy NEC
+Post dislocation of lens
+Post segmnt anom NEC-eye
+Post term preg-antepar
+Post tp lymphprolif dis
+Post-op foreign body NEC
+Post-op foreign body NOS
+Post-osse biol fail impl
+Post-proc st eye/adn NEC
+Post-surgical forgn body
+Postauricular fistula
+Postconcussion syndrome
+Posterior pole scar NEC
+Postgastric surgery synd
+Postherpes polyneuropath
+Postinjection forgn body
+Postmastoid mucosal cyst
+Postmeasles encephalitis
+Postmeasles pneumonia
+Postmenopausal bleeding
+Postop forgn subst react
+Postop oth specfd aftrcr
+Postop shock
+Postop urethral strictur
+Postpart coag def-postpa
+Postpart hem NEC-postpar
+Postphlbtc synd w/o comp
+Postsurg hypoinsulinemia
+Postsurgical hypothyroid
+Pouchitis
+Pow airc acc-unp aircr
+Power aircraft acc-crew
+Power aircraft acc-milit
+Poxvirus infections NEC
+Prader-willi syndrome
+Prblm rltd lfstyle NOS
+Preauricular cyst
+Preauricular sinus/fistu
+Preg compl NEC-antepart
+Preg compl NEC-delivered
+Preg compl NEC-unspec
+Prem rupt memb-antepart
+Premature beats NOS
+Presbyopia
+Presenile dementia
+Pressure ulcer
+Preterm NEC 1000-1249g
+Preterm NEC 2000-2499g
+Preterm NEC 500-749g
+Preterm NEC 750-999g
+Preterm infant NEC wtNOS
+Prev c-delivery unspec
+Prim TB complex-cult dx
+Prim TB complex-exm unkn
+Prim TB complex-unspec
+Prim TB pleurisy-unspec
+Prim angle clos w/o dmg
+Prim cutan coccidioid
+Prim hypercoagulable st
+Prim prg TB NEC-oth test
+Prim prog TB NEC-unspec
+Prim stabbing headache
+Prim thrombocytopen NOS
+Primary CNS lymph axilla
+Primary CNS lymph head
+Primary CNS lymph xtrndl
+Primary TB NOS-no exam
+Primary TB NOS-unspec
+Primary anal syphilis
+Primary atelectasis
+Primary cerebellar degen
+Primary cyst pars plana
+Primary iridocyclitis
+Primary optic atrophy
+Priv dwel fire-accid NEC
+Priv dwel fire-pvc fumes
+Privat dwell fire-explos
+Probl influ health NOS
+Procreative managemt NEC
+Profound impair both eye
+Prog ext ophthalmoplegia
+Prog multifoc leukoencep
+Prog myositis ossificans
+Progr idiopath scoliosis
+Progressive bulbar palsy
+Prolapsed arm-delivered
+Proliferat nephritis NOS
+Prolong 1st stage-deliv
+Prolong 2nd stage-deliv
+Prolong labor NOS-deliv
+Prolong rupt memb-deliv
+Prolong rupt memb-unspec
+Prolonged labor NOS-unsp
+Prolonged preg-antepar
+Prostatic congest/hemorr
+Prostatic disorder NOS
+Prostatitis NOS
+Prostatitis in oth dis
+Protein-cal malnutr NEC
+Proteinuria
+Proteus enteritis
+Protozoal encephalitis
+Protozoal intest dis NOS
+Prs ara w ntr wo inf/st
+Prs ara wo inf/ntr w st
+Prs ara wo ntr w inf/st
+Prsc other cntrcptv dvc
+Prsc sbdrml cntrcp mplnt
+Prsnl hst colonic polyps
+Prsnl hst peptic ulcr ds
+Prst aura wo inf/ntr/st
+Pruritic conditions NEC
+Pseudomemb conjunctivit
+Pseudomonas septicemia
+Pseudopapilledema
+Psorias related dis NEC
+Psoriatic arthropathy
+Psy dis w delus oth dis
+Psychogen musculskel dis
+Psychogen paranoid psych
+Psychogenic disorder NOS
+Psychogenic gu dis NEC
+Psychogenic pain NOS
+Psychogenic sensory dis
+Psychogenic vaginismus
+Ptosis of eyelid NOS
+Pubertal menorrhagia
+Puerp cerebvas dis-deliv
+Puerp compl NEC-unspec
+Puerperal sepsis-unsp
+Pulm compl in del-unspec
+Pulm complicat-postpart
+Pulm embol NOS-postpart
+Pulmon TB NEC-histo dx
+Pulmon circulat dis NEC
+Pulmonary TB NOS-unspec
+Pulmonary eosinophilia
+Pulmonary valve anom NEC
+Pulmonary valve anom NOS
+Pulmonary valve disorder
+Pulp/periapical dis NEC
+Pupillary abnormalities
+Pupillary membranes
+Purine/pyrimid dis NEC
+Purpura NOS
+Pyoderma NEC
+Pyogen arthritis NEC
+Pyogen arthritis-forearm
+Pyogen arthritis-hand
+Pyogen arthritis-mult
+Pyogen arthritis-pelvis
+Pyogen arthritis-up/arm
+Pyrexia in labor-unspec
+Pyrophosph cryst-hand
+Pyrophosph cryst-l/leg
+Pyrophosph cryst-up/arm
+Quad gest 2+ monoamniotc
+Quadriplegia
+Quadrplg c1-c4
+Quadruplet preg-unspec
+Quads w fetal loss-del
+Quartan malaria
+Queensland tick typhus
+RR acc NEC-employee
+RR acc NEC-ped cyclist
+RR acc NEC-person NEC
+RR acc NOS-ped cyclist
+RR acc NOS-pedestrian
+RR acc w derail-ped cycl
+RR acc w derail-pers NOS
+RR acc w explos-pasngr
+RR acc w explos-pers NEC
+RR coll NOS-pedestrian
+RR coll NOS-person NOS
+RR coll w oth obj-pedest
+Radiat fet damag-antepar
+Radiation exposure NOS
+Radiation kyphosis
+Radicular cyst
+Radioact isotope exposur
+Radiological exam NEC
+Radiotherapy convalescen
+Radioulnar synostosis
+Rape
+Rat-bite fever NOS
+React psychosis NEC/NOS
+React-cardiac dev/graft
+React-int pros devic NEC
+React-oth vasc dev/graft
+Reactive confusion
+Reading disorder NEC
+Reading disorder NOS
+Reason for consult NOS
+Rectal & anal dis NEC
+Recur bilat inguin hern
+Recur dislocat-forearm
+Recur dislocat-hand
+Recur dislocat-l/leg
+Recur dislocat-up/arm
+Recur manic dis-mild
+Recur unil femoral hern
+Recur unil ing hern-gang
+Recur unilat inguin hern
+Recurr depr psychos-mod
+Recurr depr psychos-unsp
+Redness/discharge of eye
+Reduction deform leg NOS
+Reentrant coll-mcyc psgr
+Reentrant coll-pedest
+Reentrant coll-pers NEC
+Reentrant coll-pers NOS
+Refereeing sports
+Reflux esophagitis
+Refraction disorder NOS
+Reg enterit sm/lg intest
+Regional enteritis NOS
+Regular astigmatism
+Rehabilitation proc NOS
+Reiter arthritis-ankle
+Reiter arthritis-shlder
+Reiter arthritis-up/arm
+Reiters disease
+Relapsing fever NOS
+Remove/insert iud
+Renal & ureteral dis NEC
+Renal artery aneurysm
+Renal colic
+Renal dialysis status
+Renovasc hypertension
+Resp TB NEC-no exam
+Resp cond: ext agent NOS
+Resp depend-powr failure
+Resp syncyt viral pneum
+Resp system disease NEC
+Resp system disease NOS
+Respiratory abnorm NEC
+Respiratory anomaly NOS
+Respiratory neoplasm NOS
+Ret prod conc-del w p/p
+Retain radioac frag NEC
+Retain stone/crystl frag
+Reticulosarcoma mult
+Retina microaneurysm NOS
+Retinal defect NOS
+Retinal detachment NEC
+Retinal disorder NOS
+Retinal disorders NEC
+Retinal hemorrhage
+Retinal neovascular NOS
+Retinal vasculitis
+Retinoph prematr
+Retinoph prematr.stage 4
+Retinoph prematurity NOS
+Retinoshisis or cyst NEC
+Retrobulbar neuritis
+Retroperitoneum inj-cl
+Retrovert uter-antepart
+Retrovert uter-postpart
+Retrovert uterus-deliver
+Reyes syndrome
+Rflx sym dystrph up limb
+Rh incompat/acute HTR
+Rh isoimmunizat-deliver
+Rheum chorea w hrt invol
+Rheum endocarditis NOS
+Rheum pulmon valve dis
+Rheumatic aortic insuff
+Rheumatic pneumonia
+Rheumatism NOS
+Rickettsial encephalitis
+Rickettsialpox
+Rickettsioses NEC
+Ridden animal acc-st car
+Ring corneal ulcer
+Roseola infant d/t HHV-6
+Roseola infantum NOS
+Rotator cuff rupture
+Round hole of retina
+Row
+Rubella nerve compl NOS
+Rubella-delivered
+Rubella-delivered w p/p
+Rubella-postpartum
+Rupt aortic aneurysm NOS
+Rupt flexor tendon hand
+Ruptur thoracic aneurysm
+Rupture achilles tendon
+Rupture of artery
+Rupture of synovium NOS
+Rupture patellar tendon
+Russia spr-summer enceph
+Saccadic eye movmnt def
+Sacral spinal cord injur
+Salivary gland atrophy
+Salivary gland dis NOS
+Salmonella infection NOS
+Salmonella osteomyelitis
+Salmonella pneumonia
+Salpingo-oophoritis NOS
+Sarcoidosis
+Sbac leu uns cl-relapse
+Sbac lym leuk in relapse
+Sbac myl leuk w rmsion
+Scarlet fever
+Schizo dis-subchr/exacer
+Schizo resid subchr/exac
+Schizoaffective dis NOS
+Schizoph dis resid-subch
+Schizophr dis resid NOS
+Schizophr dis resid-chr
+Schizophrenia NEC-unspec
+Schizophrenia NOS-chr
+Schizophrenia NOS-remiss
+Schizophrenia NOS-subchr
+Schizotypal person dis
+Schmorls node-thoracic
+Sciatica
+Sclerosing keratitis
+Scndhnd tbcco smoke
+Scoliosis in oth dis
+Scorpion sting
+Scr fetl malfrm-ultrasnd
+Screen - osteoporosis
+Screen by amniocent NEC
+Screen for gu cond NEC
+Screen for hypertension
+Screen for infec dis NOS
+Screen for nephropathy
+Screen for veneral dis
+Screen mal neop-cervix
+Screen malig neop-vagina
+Screen-alphafetoprotein
+Screen-blood dis NOS
+Screen-cong hip dislocat
+Screen-contamination NEC
+Screen-development prob
+Screen-endoc/nut/met NEC
+Screen-fetal retardation
+Screen-inborn err metab
+Screen-isoimmunization
+Screen-mental dis NEC
+Screen-sickle cell dis
+Screen-trypanosomiasis
+Screening for diphtheria
+Screening for malaria
+Screening for rubella
+Scrn malig neop-prostate
+Scrn unspcf viral dis
+Scrn-ischemic heart dis
+Scrub typhus
+Sealpox
+Sebaceous gland dis NOS
+Seborrhea
+Sebrrheic dermatitis NOS
+Sec DM circ uncontrld
+Sec DM hpros nt st uncnr
+Sec DM hprosmlr uncntrld
+Sec DM ketoacd uncntrld
+Sec DM neuro uncontrld
+Sec DM renal uncontrld
+Sec hyperparathyrd-renal
+Sec hyprprthyrd nonrenal
+Sec malig neo resp NEC
+Sec malig neo sm bowel
+Sec malig neo urin NEC
+Sec neuroend tu dist lym
+Sec neuroend tu oth site
+Sec neuroend tumor-liver
+Sec neuroendo tumor-bone
+Sec uterine inert-unspec
+Sec vitreoretina degen
+Second malig neo breast
+Second malig neo genital
+Second malig neo kidney
+Secondary corneal edema
+Secondary lacrim atrophy
+Secondary malig neo lung
+Secondary malig neo skin
+Secondary pneumon plague
+Secondary syph skin
+Sector or arcuate defect
+Sed
+Selective iga immunodef
+Selective mutism
+Semicircul canal fistula
+Senile cataract NOS
+Senile entropion
+Senile reticular degen
+Sensoneur hear loss asym
+Sensor prob w neck/trunk
+Sensormotr disor lid NEC
+Sensorneur hear loss NOS
+Sensorneur hear loss uni
+Sepsis
+Septate uterus
+Septic pulmonary embolsm
+Seroma complicting proc
+Serous labyrinthitis
+Serratia septicemia
+Sev hypox-ischem enceph
+Severe birth asphyxia
+Severe preeclamp-unspec
+Severe sepsis
+Sewing
+Sexual function problem
+Sft tisue - kpsis srcma
+Shga txn prod E.coli NEC
+Shga txn prod E.coli NOS
+Shiga txn-produce E.coli
+Shigella flexneri
+Shigellosis NOS
+Shldr/upper arm inj NOS
+Short cord-antepartum
+Shotgun accident
+Shoulder dystocia-deliv
+Shoulder dystocia-unspec
+Shoulder region dis NEC
+Shrt lst uni nral hdache
+Siderosis
+Sigmoid colon inj-open
+Simp schiz-subchr/exacer
+Simple chr bronchitis
+Simple goiter
+Single lb in-hosp w cs
+Single liveborn-nonhosp
+Sinoatrial node dysfunct
+Sixth nerve palsy
+Ski
+Skin - kaposis sarcoma
+Skin disorder NOS
+Skin hypertro/atroph NOS
+Skin/scuba diving acc
+Skin/sensitization tests
+Sleep apnea NOS
+Sleep arousal disorder
+Small intest inj NOS-cl
+Small intest inj NOS-opn
+Small kidney NOS
+Smallpox NOS
+Snow veh acc-driver
+Snow veh acc-mcycl psgr
+Snow veh acc-motorcycl
+Social conduct dis-mod
+Soft tissue disord NOS
+Soft tissue disorder NEC
+Solid/liq pneumonit NEC
+Solitary cyst of breast
+Solvent dermatitis
+Somat dys head region
+Somat dysfunc rib cage
+Somat dysfunc thorac reg
+Somatic dysfunction NEC
+Sparganosis
+Spasm sphincter of oddi
+Spasmodic torticollis
+Spastic entropion
+Spec anomaly of orbit
+Spec lacrimal pass anom
+Specfied cong anomal NEC
+Spectator at event
+Spin bif w hydrceph-lumb
+Spin cord inj-mult site
+Spin curv NOS in oth dis
+Spin sten
+Spina bifida occulta
+Spina bifida-lumbar
+Spinal cord anomaly NEC
+Spinal cord disease NOS
+Spinal cord injury NOS
+Spinal stenosis-oth site
+Spinocerebellar dis NOS
+Spirochetal infect NOS
+Spleen parenchyma lacer
+Spon ab w compl NEC-inc
+Spon ab w compl NOS-comp
+Spon ab w metab dis-comp
+Spon ab w metab dis-inc
+Spon ab w metab dis-unsp
+Spon ab w ren fail-unsp
+Spon abort w embol-inc
+Spon abort w hemorr-comp
+Spon abort w hemorr-inc
+Spon abort w hemorr-unsp
+Spond compr thor sp cord
+Spondylos NOS w/o myelop
+Sports acc w/o sub fall
+Sprain carpometacarpal
+Sprain coracoclavicular
+Sprain coracohumeral
+Sprain cruciate lig knee
+Sprain distal tibiofibul
+Sprain elbow/forearm NEC
+Sprain lateral coll lig
+Sprain of ankle NEC
+Sprain of ankle NOS
+Sprain of coccyx
+Sprain of knee & leg NEC
+Sprain of nasal septum
+Sprain of sacrum
+Sprain of sternum NEC
+Sprain of sternum NOS
+Sprain of wrist NEC
+Sprain radial collat lig
+Sprain radiohumeral
+Sprain sacroiliac
+Sprain sacrospinatus
+Sprain shoulder/arm NOS
+Sprain sternoclavicular
+Sprain super tibiofibula
+Sprain supraspinatus
+Sprain tarsometatarsal
+Spstc hmiplg nondmnt sde
+Sqam cell ca sclp/skn nk
+Sqm cel skn face NEC/NOS
+Squam cell ca skn up lmb
+Squamous cell ca skn lip
+Staphylcocc septicem NEC
+Status amput foot
+Status amput shoulder
+Status amput wrist
+Status cardiac pacemaker
+Status oth spcf crdc dvc
+Status-post ptca
+Stenosis of larynx
+Stevens-Johnson-TEN syn
+Stiff-man syndrome
+Stomach injury-closed
+Stomach injury-open
+Stomach ulcer NOS-obstr
+Straig amin-acid met NEC
+Strep sore throat
+Streptococcal septicemia
+Stress fx shaft femur
+Stress react
+Stress reaction
+Stricture of cervix
+Stricture of vagina
+Strom cornea dystrph NEC
+Subac scleros panenceph
+Subarach hem-prolng coma
+Subarachnoid hem-no coma
+Subdural hem-brief coma
+Subdural hem-concussion
+Subdural hemorrhage
+Subendo infarct
+Subj visual disturb NOS
+Sublingual varices
+Substance abuse-family
+Suffocat in bed/cradle
+Suffocation NEC
+Suffocation-lack of air
+Sunburn
+Superf inj forearm NEC
+Superf inj hand NEC-inf
+Superf inj head NEC-inf
+Superfic inj NEC-infect
+Superfic inj conjunctiva
+Superficial inj cornea
+Superficial inj hand NEC
+Suppr lactation-antepar
+Suppr lactation-unspec
+Suppurativ labyrinthitis
+Supracondyl fx femur-cl
+Supracondyl fx femur-opn
+Supracondyl fx humer-opn
+Surfactant mutation lung
+Surg comp - hypertension
+Surg comp nerv systm NEC
+Surg compl-body syst NEC
+Surg compl-heart
+Surg complication - cns
+Surgical complicat NOS
+Sus placentl prob nt fnd
+Swallowed blood syndrome
+Swan-neck deformity
+Swelling of limb
+Swelling or mass of eye
+Swimming accident NOS
+Swimming/diving acc NEC
+Sylvatic yellow fever
+Symblepharon
+Symbolic dysfunction NOS
+Sympathetic uveitis
+Sympt fem climact state
+Syncope and collapse
+Syndactyl fing-no fusion
+Synovitis NEC
+Syph dissem retinitis
+Syph retrobulb neuritis
+Syphil pulmonary valve
+Syphilis of bone
+Syphilis of liver
+Syphilis-antepartum
+Syphilitic episcleritis
+Syphilitic iridocyclitis
+Syphilitic mitral valve
+Syphilitic myocarditis
+Syphilitic optic atrophy
+Syphilitic pericarditis
+Syphilitic peritonitis
+Syringomyelia
+Systolic hrt failure NOS
+T1-t6 fx-cl/cord inj NOS
+T1-t6 fx-op/cord inj NOS
+T7-t12 fx-cl/crd inj NEC
+TB bone/joint NOS-unspec
+TB bone/jt NOS-no exam
+TB bone/jt NOS-oth test
+TB brain absc-exam unkn
+TB bronchiect-exam unkn
+TB encephalitis-micro dx
+TB epididymis-cult dx
+TB epididymis-exam unkn
+TB epididymis-micro dx
+TB esophagus-exam unkn
+TB esophagus-unspec
+TB fem gen NEC-exam unkn
+TB joint NEC-exam unkn
+TB laryngitis-cult dx
+TB laryngitis-histo dx
+TB lung fibros-exam unkn
+TB lung fibros-histo dx
+TB lung fibros-micro dx
+TB lung fibrosis-unspec
+TB lung infiltr-cult dx
+TB lung infiltr-micro dx
+TB lung infiltr-oth test
+TB lung nodular-micro dx
+TB lung nodular-oth test
+TB lung nodular-unspec
+TB lung w cavit-histo dx
+TB lung w cavit-oth test
+TB male gen NEC-histo dx
+TB male gen NEC-micro dx
+TB male gen NEC-oth test
+TB meningitis-no exam
+TB of adrenal-exam unkn
+TB of bladder-cult dx
+TB of bladder-micro dx
+TB of bladder-oth test
+TB of bone NEC-histo dx
+TB of bone NEC-no exam
+TB of bronchus-histo dx
+TB of bronchus-unspec
+TB of ear-cult dx
+TB of ear-exam unkn
+TB of ear-histo dx
+TB of eye-cult dx
+TB of eye-histo dx
+TB of hip-no exam
+TB of hip-oth test
+TB of joint NEC-oth test
+TB of kidney-oth test
+TB of knee-unspec
+TB of organ NEC-cult dx
+TB of organ NEC-micro dx
+TB of organ NEC-no exam
+TB of organ NEC-oth test
+TB of spleen-cult dx
+TB of spleen-exam unkn
+TB of spleen-micro dx
+TB of thyroid-exam unkn
+TB of ureter-exam unkn
+TB of ureter-micro dx
+TB of ureter-oth test
+TB of ureter-unspec
+TB of vertebra-exam unkn
+TB of vertebra-unspec
+TB ovary & tube-no exam
+TB ovary & tube-unspec
+TB ovary/tube-exam unkn
+TB periph lymph-micro dx
+TB periph lymph-oth test
+TB peritonitis-micro dx
+TB peritonitis-oth test
+TB pleurisy-exam unkn
+TB pneumonia-cult dx
+TB pneumonia-exam unkn
+TB pneumonia-histo dx
+TB pneumothorax-cult dx
+TB pneumothorax-micro dx
+TB pneumothorax-no exam
+TB pneumothorax-unspec
+TB skin/subcut-exam unkn
+TB skin/subcut-histo dx
+TB skin/subcut-micro dx
+TB skin/subcut-no exam
+TB sp crd absc-micro dx
+TB sp crd absc-oth test
+TB thorax node-exam unkn
+TB urinary NEC-histo dx
+TMJ sounds opn/close jaw
+Tachycardia NOS
+Tackle football
+Takotsubo syndrome
+Talipes NOS
+Talipes cavus
+Talipes equinovarus
+Talipes valgus
+Talipes varus
+Tear meniscus NEC-curren
+Temporal sclerosis
+Tenosynov hand/wrist NEC
+Tenosynovitis foot/ankle
+Tension headache
+Termination of pregnancy
+Terrorism
+Tetanic cataract
+Tetanus
+Thalassemia
+Thalassemia NEC
+Thalassemia minor
+Third-stage hem-postpart
+Thor disc dis w myelopat
+Thoracic disc degen
+Thoracic spondylosis
+Thoracoabd aortc ectasia
+Thrd-stage hem-del w p/p
+Threat labor NEC-antepar
+Threatened abort-deliver
+Threatened abort-unspec
+Thrombophleb-deliv w p/p
+Thrombophlebitis NOS
+Thrombosis NEC-delivered
+Thrombosis NEC-postpart
+Thyroid dysfunc-postpart
+Thyroiditis NOS
+Thyrotox NOS w crisis
+Thyrtox orig NEC no cris
+Tibiofibula longit defic
+Tick-borne fever
+Tietzes disease
+Tk off/land-comm crf NEC
+Tk off/land-psng aircrft
+Tk off/land-spcrft
+Tongue anomaly NEC
+Tongue anomaly NOS
+Tongue disorder NEC
+Tonic pupillary reaction
+Tooth devel/erup dis NEC
+Tooth eruption disturb
+Torsion of testis NOS
+Torus fx ulna-closed
+Tot anom pulm ven connec
+Total ophthalmoplegia
+Total traumatic cataract
+Tox ef hydrocarb gas NEC
+Tox eff lead compnd NEC
+Tox eff organphos/carbam
+Tox multnod goit no cris
+Tox nod goiter w crisis
+Tox uninod goit no cris
+Tox uninod goit w crisis
+Tox w old hyper-postpart
+Toxic eff chlorine gas
+Toxic eff isopropyl alc
+Toxic eff nonpetrol solv
+Toxic eff pesticides NEC
+Toxic eff soap/detergent
+Toxic effect alcohol NEC
+Toxic effect arsenic
+Toxic effect cadmium
+Toxic effect caustic NOS
+Toxic effect fusel oil
+Toxic effect of asbestos
+Toxic effect of silicone
+Toxic erythema
+Toxic maculopathy
+Toxoplasma pneumonitis
+Toxoplasmosis NOS
+Tracheostomy comp NEC
+Tracheostomy status
+Trachoma NOS
+Traff acc NOS-anim rider
+Traffic acc NOS-driver
+Traffic acc NOS-ped cycl
+Traffic acc NOS-pers NEC
+Traffic acc NOS-pers NOS
+Trans hyperten-del w p/p
+Trans hyperten-postpart
+Trans-sexualism
+Trans-sexualism NOS
+Transfsn rel ac lung inj
+Transfusion reaction NOS
+Transient arterial occlu
+Transient global amnesia
+Transient mental dis NEC
+Transient met dis NB NOS
+Transplant status NOS
+Transv/obliq lie-unspec
+Traum arthropathy-hand
+Traum arthropathy-pelvis
+Traum arthropathy-unspec
+Traum hemothorax-closed
+Traum pneumohemothor-cl
+Traum pneumothorax-close
+Traum pneumothorax-open
+Traum subarachnoid hem
+Trauma comp synd low ext
+Trauma compart synd abd
+Traumatic extradural hem
+Traumatic spondylopathy
+Travel and motion
+Trematode infection NOS
+Tremor NEC
+Trench fever
+Trichomoniasis NEC
+Trichuriasis
+Trigeminal nerve dis NEC
+Tripl gest-plac/sac und
+Triplet pregnancy-unspec
+Tritan defect
+Trnsplnt orgn rem status
+Trochanteric fx NOS-clos
+Trspl sts-perip stm cell
+Tuberculoma brain-unspec
+Tuberculosis contact
+Tubrclma brain-exam unkn
+Tubrclma mening-histo dx
+Tubrclma mening-micro dx
+Tubrclma mening-oth test
+Tubrclma sp cord-unspec
+Tubrcloma brain-histo dx
+Tubrcloma brain-micro dx
+Tubrcloma brain-oth test
+Twin
+Twin NOS-nonhosp
+Twin pregnancy-unspec
+Twin-NOS-in hosp w/o cs
+Twin-mate lb-hosp w/o cs
+Twins w fetal loss-ante
+Twins w fetal loss-del
+Tx ef cl-hydcarb slv NEC
+Tx eff inorg lead compnd
+Typhus NOS
+Ulc esophagus w/o bleed
+Ulcer of lower limb NOS
+Ulcerative proctitis
+Umbil cond NEC aff NB
+Umbilical artery absence
+Umbilical hernia w gangr
+Unc behav neo breast
+Unc behav neo oral/phar
+Unc behav neo pituitary
+Unc behav neo urinar NEC
+Unc behav neo urinar NOS
+Uncert behavior neo NEC
+Undet circ-fall residenc
+Undet circ-hunting rifle
+Undet circ-military arms
+Undet circ-suffocate NEC
+Undet pois-agricult agnt
+Undet pois-med agnt NEC
+Undet pois-med agnt NOS
+Undeterm circ-burn
+Undeterm circ-scald
+Undeterm circ-submersion
+Undeterm pois-psychotrop
+Undetermin circumst NOS
+Undiff somatoform disrdr
+Unil cleft palat/lip-com
+Unil femoral hern w obst
+Unilat cleft palate-comp
+Unilat cleft palate-inc
+Unilat inguinal hernia
+Unpow aircrf acc-per NEC
+Unpower aircraft acc-occ
+Uns mno leu wo ach rmsn
+Unsat cerv cytlogy smear
+Unsat restore tooth NEC
+Unsocial unaggr-severe
+Unsocial unaggress-mild
+Unsp ds conjuc chlamydia
+Unsp rflx sympth dystrph
+Unspcf anomaly jaw size
+Unwanted pregnancy NEC
+Upper extremity aneurysm
+Upper extremity embolism
+Upper resp dis NEC/NOS
+Ureteric obstruction NEC
+Urethral discharge
+Urethral hypermobility
+Urgency of urination
+Urinary anomaly NOS
+Urinary frequency
+Urinary hesitancy
+Urinary obstruction NOS
+Urinostomy status NEC
+Urogenital trichomon NEC
+Urogenital trichomon NOS
+Urticaria from cold/heat
+Use aromatase inhibitors
+Uter dystocia NOS-unspec
+Uterine inertia NEC-unsp
+Uterine leiomyoma NOS
+Uterine tumor-antepartum
+Uterus injury-closed
+Utervaginal prolapse NOS
+Vac-dis combinations NOS
+Vaccin for common cold
+Vaccin for diphtheria
+Vaccin for disease NEC
+Vaccin for dtp + tab
+Vaccin for leishmaniasis
+Vaccin for pertussis
+Vaccin for rubella
+Vaccin for smallpox
+Vaginal agenesis
+Vaginal endometriosis
+Vaginal hematoma
+Vaginitis in oth disease
+Valgus deformity wrist
+Var mgr NEC wo ntc mgr
+Var mgrn NEC w ntrc mgr
+Variations in hair color
+Varic vein leg preg-unsp
+Varic vein leg-antepart
+Varic vein leg-del w p/p
+Varicella complicat NEC
+Varicose vulva-delivered
+Varus deformity wrist
+Vasa previa-delivered
+Vasc comp med care NEC
+Vasc comp renal artery
+Vasc dementia w delirium
+Vasc lesion cord-unspec
+Vascular anom post eye
+Vascular disord of skin
+Vasectomy status
+Ven compl preg NEC-unsp
+Venereal dis carrier NEC
+Venereal disease NEC
+Venomous snake bite
+Venomous spider bite
+Venous compl NEC-antepar
+Venous compl NEC-postpar
+Venous compl NOS-postpar
+Venous insufficiency NOS
+Ventltr assoc pneumonia
+Ventricular flutter
+Vernal conjunctivitis
+Vertbrobaslr artery synd
+Vertebral artery syndrom
+Vertical displace-teeth
+Viral arthritis NEC
+Viral arthritis-ankle
+Viral arthritis-forearm
+Viral arthritis-mult
+Viral arthritis-shlder
+Viral arthritis-up/arm
+Viral conjunctivitis NEC
+Viral encephalitis NEC
+Viral enteritis NOS
+Viral hep carrier NEC
+Viral hepat NOS w coma
+Viral labyrinthitis
+Viral meningitis NOS
+Viral pneumonia NOS
+Vis cortx dis w neoplasm
+Vis path dis w neoplasms
+Vis path dis w vasc dis
+Visceral aneurysm NEC
+Visual deprivatn nystagm
+Visual disturbances NEC
+Visual loss NOS
+Vit A night blindness
+Vitreous hemorrhage
+Vitreous membranes
+Vitreous prolapse
+Vocal cord paralysis NOS
+Vocal paral bilat part
+Vocal paral bilat total
+Vocal paral unilat part
+Vocal paral unilat total
+Voice/resonance dis NOS
+Volleyball (beach
+Volume depletion NOS
+Volunteer activity
+Vomit compl preg-antepar
+Vomit compl preg-deliver
+Vomit of preg NOS-deliv
+Vomiting of fecal matter
+Voyeurism
+Vscourtl rflx w npht NOS
+Vscurt rflx npht uniltrl
+Vulvar vestibulitis
+W/craft fall NEC-swim
+W/craft fall NOS-skier
+W/craft stair fall-swim
+W/crf stair fall-docker
+W/crf stair fall-per NEC
+W/crf stair fall-per NOS
+W/crft fall NEC-military
+W/crft fall NEC-pers NEC
+W/crft fall NEC/NOS-mil
+W/crft fall NOS-pers NOS
+W/crft machine-military
+Wait adm to oth facility
+Wandering-dis elsewhere
+War inj:IED NEC
+War inj:after cease NEC
+War inj:aircrft dest NEC
+War inj:antiperson bomb
+War inj:depth charge
+War inj:expl bomb-cease
+War inj:explosion NEC
+War inj:fragment IED NEC
+War inj:gasoline bomb
+War inj:guided missile
+War inj:incndiary bullet
+War inj:nuclear rad eff
+War inj:piercing object
+War inj:prsn-brn fragmnt
+War inj:rubber bullet
+War inj:weapon fragments
+War injury:biol warfare
+War injury:gas/fum/chem
+Water aerobics/exercise
+Water ski/wake boarding
+Water-skiing accident
+Watercraft acc NEC-crew
+Watercraft acc NEC-unpow
+Watercraft expl-pers NEC
+Watercraft explos-crew
+Watercraft explos-pasngr
+Webbing of neck
+West equine encephalitis
+Winds/brass instru play
+Woodworking machine acc
+Wrong fluid in infusion
+Wtrcraft fall NEC-docker
+Wtrcraft fall NOS-crew
+Wtrcraft fall NOS-pasngr
+Wtrcraft stair fall-psgr
+Xanthelasma
+Yaws NOS
+Zoonotic bact dis NEC
+Zygomatic hyperplasia
